@@ -1,0 +1,4536 @@
+{
+  "title": "Apple Academy — тест",
+  "questionsPerTest": 25,
+  "questions": [
+    {
+      "id": "TST-001",
+      "category": "iPhone",
+      "topic": "iPhone / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPhone 18 Pro за таблицею характеристик?",
+      "options": {
+        "A": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "B": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 5×); LiDAR",
+        "C": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "D": "48 Мп Fusion із змінною діафрагмою; 48 Мп Ultra Wide; 48 Мп телефото 5×"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 18 Pro зазначено: 48 Мп Fusion із змінною діафрагмою; 48 Мп Ultra Wide; 48 Мп телефото 5×."
+    },
+    {
+      "id": "TST-002",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для MacBook Pro 14″ 2025 у специфікації?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M5 Pro: CPU до 18 ядер; GPU 20 ядер",
+        "D": "M4, CPU 10 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 Pro зазначено: M5 Pro: CPU до 18 ядер; GPU 20 ядер."
+    },
+    {
+      "id": "TST-003",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Air 13″ M4?",
+      "options": {
+        "A": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "B": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "C": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "D": "MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M4 зазначено: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм."
+    },
+    {
+      "id": "TST-004",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch SE 3 у специфікації?",
+      "options": {
+        "A": "S10 SiP",
+        "B": "S7 SiP",
+        "C": "S9 SiP",
+        "D": "S11 SiP"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Apple Watch SE 3 зазначено: S10 SiP."
+    },
+    {
+      "id": "TST-005",
+      "category": "iPad mini",
+      "topic": "iPad mini / чип і процесор",
+      "type": "single",
+      "question": "Який процесор має iPad mini 7?",
+      "options": {
+        "A": "A17 Pro; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер",
+        "B": "A16 Bionic, 5-ядерний GPU",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A15 Bionic; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad mini 7 A17 Pro зазначено: A17 Pro; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-006",
+      "category": "iPad",
+      "topic": "iPad / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPad 11 2025?",
+      "options": {
+        "A": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "B": "Retina IPS, 2160×1620, 500 ніт, True Tone",
+        "C": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "D": "Liquid Retina IPS, 2360×1640, 500 ніт, True Tone"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad A16 зазначено: Liquid Retina IPS, 2360×1640, 500 ніт, True Tone."
+    },
+    {
+      "id": "TST-007",
+      "category": "iPad Air",
+      "topic": "iPad Air / чип і процесор",
+      "type": "single",
+      "question": "Який процесор має iPad Air 2025?",
+      "options": {
+        "A": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "B": "M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті",
+        "C": "M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "D": "M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Air M3 зазначено: M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті."
+    },
+    {
+      "id": "TST-008",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / автономність / акумулятор",
+      "type": "single",
+      "question": "Яка автономність Apple Watch Ultra 3?",
+      "options": {
+        "A": "До 42 год; до 72 год у режимі економії",
+        "B": "До 18 год; до 36 год у режимі економії",
+        "C": "До 24 год; до 10 год тренування надворі",
+        "D": "До 24 год"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 3 зазначено: До 42 год; до 72 год у режимі економії."
+    },
+    {
+      "id": "TST-009",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Який чип має MacBook Pro 16″ 2024?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M4 Pro: CPU 14 ядер; GPU 20 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M4 Pro зазначено: M4 Pro: CPU 14 ядер; GPU 20 ядер."
+    },
+    {
+      "id": "TST-010",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип має Apple Watch Series 10?",
+      "options": {
+        "A": "S9 SiP",
+        "B": "S10 SiP",
+        "C": "S7 SiP",
+        "D": "S11 SiP"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 10 зазначено: S10 SiP."
+    },
+    {
+      "id": "TST-011",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для Apple Watch Ultra 4?",
+      "options": {
+        "A": "Wi‑Fi 4; Bluetooth 5.3; UWB 2-го покоління; GPS або GPS + Cellular",
+        "B": "GPS + Cellular + супутниковий зв’язок; Wi‑Fi; Bluetooth",
+        "C": "Wi‑Fi; Bluetooth 5.3; GPS або GPS + Cellular",
+        "D": "Wi‑Fi 4; Bluetooth 5.3; GPS або GPS + Cellular"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 4 зазначено: GPS + Cellular + супутниковий зв’язок; Wi‑Fi; Bluetooth."
+    },
+    {
+      "id": "TST-012",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPad Pro M4 13″?",
+      "options": {
+        "A": "USB-C, USB 2 (до 480 Мбіт/с)",
+        "B": "USB-C, USB 3 (до 10 Гбіт/с)",
+        "C": "Thunderbolt / USB 4 (USB‑C)",
+        "D": "USB-C, USB 2 — до 480 Мбіт/с"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Pro M4 13″ зазначено: Thunderbolt / USB 4 (USB‑C)."
+    },
+    {
+      "id": "TST-013",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який процесор має iPhone 17e у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A19",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone 17e зазначено: A19."
+    },
+    {
+      "id": "TST-014",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип має AirPods Max 2 ?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "чіп H2",
+        "C": "чіп H1",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для AirPods Max 2 зазначено: чіп H2."
+    },
+    {
+      "id": "TST-015",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / чип і процесор",
+      "type": "single",
+      "question": "Який процесор має iPad Pro 2024?",
+      "options": {
+        "A": "M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM",
+        "B": "M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "C": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "D": "M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad Pro M4 11″ зазначено: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM."
+    },
+    {
+      "id": "TST-016",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який процесор має iPhone 17 Pro Max?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A16 Bionic, 5-ядерний GPU",
+        "C": "A19 Pro",
+        "D": "A17 Pro, 6-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 17 Pro Max зазначено: A19 Pro."
+    },
+    {
+      "id": "TST-017",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / чип і процесор",
+      "type": "single",
+      "question": "Який чип має iPad Pro 2025?",
+      "options": {
+        "A": "M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM",
+        "B": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "C": "M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "D": "M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad Pro M5 13″ зазначено: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM."
+    },
+    {
+      "id": "TST-018",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для Mac mini M6?",
+      "options": {
+        "A": "Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с",
+        "B": "Wi‑Fi 6E, Bluetooth 5.3",
+        "C": "Wi‑Fi 6E; Bluetooth 5.3",
+        "D": "Wi‑Fi 7, Bluetooth 6"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Mac mini M6 зазначено: Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с."
+    },
+    {
+      "id": "TST-019",
+      "category": "iPad",
+      "topic": "iPad / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad A16?",
+      "options": {
+        "A": "A13 Bionic; Neural Engine",
+        "B": "A14 Bionic; CPU 6 ядер, GPU 4 ядра, Neural Engine 16 ядер",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad A16 зазначено: A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-020",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Ultra 4 у специфікації?",
+      "options": {
+        "A": "S9 SiP",
+        "B": "S7 SiP",
+        "C": "S10 SiP",
+        "D": "S11 SiP"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 4 зазначено: S11 SiP."
+    },
+    {
+      "id": "TST-021",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Pro 16″ M5 Max?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 7, Bluetooth 6",
+        "C": "Wi‑Fi 6E; Bluetooth 5.3",
+        "D": "Wi‑Fi 7; Bluetooth 6"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M5 Max зазначено: Wi‑Fi 7; Bluetooth 6."
+    },
+    {
+      "id": "TST-022",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Ultra 3 у специфікації?",
+      "options": {
+        "A": "S10 SiP",
+        "B": "S11 SiP",
+        "C": "S7 SiP",
+        "D": "S9 SiP"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 3 зазначено: S10 SiP."
+    },
+    {
+      "id": "TST-023",
+      "category": "iPhone",
+      "topic": "iPhone / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPhone 17 Pro?",
+      "options": {
+        "A": "USB-C, USB 3",
+        "B": "USB-C, USB 2 — до 480 Мбіт/с",
+        "C": "USB-C, USB 3 (до 10 Гбіт/с)",
+        "D": "USB-C, USB 2 (до 480 Мбіт/с)"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 17 Pro зазначено: USB-C, USB 3."
+    },
+    {
+      "id": "TST-024",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M4?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M4: CPU 10 ядер; GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 зазначено: M4: CPU 10 ядер; GPU 10 ядер."
+    },
+    {
+      "id": "TST-025",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Pro 16″ M4 Pro?",
+      "options": {
+        "A": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "B": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "C": "MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм",
+        "D": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M4 Pro зазначено: MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм."
+    },
+    {
+      "id": "TST-026",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 16″ M5 Pro?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M5 Pro: CPU до 18 ядер; GPU 20 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M5 Pro зазначено: M5 Pro: CPU до 18 ядер; GPU 20 ядер."
+    },
+    {
+      "id": "TST-027",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 16e у специфікації?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A18"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 16e зазначено: A18, 4-ядерний GPU."
+    },
+    {
+      "id": "TST-028",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iMac M4?",
+      "options": {
+        "A": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "B": "2 або 4 порти Thunderbolt 4 залежно від конфігурації; 3,5 мм; Gigabit Ethernet залежно від комплектації",
+        "C": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "D": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iMac M4 зазначено: 2 або 4 порти Thunderbolt 4 залежно від конфігурації; 3,5 мм; Gigabit Ethernet залежно від комплектації."
+    },
+    {
+      "id": "TST-029",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 15″ M5?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M5, CPU 10 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M5 зазначено: M5, CPU 10 ядер, GPU 10 ядер."
+    },
+    {
+      "id": "TST-030",
+      "category": "iPhone",
+      "topic": "iPhone / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPhone 17 Pro Max?",
+      "options": {
+        "A": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "B": "6,1″ Super Retina XDR OLED, Dynamic Island, Always-On",
+        "C": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "D": "6,9″ Super Retina XDR OLED"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 17 Pro Max зазначено: 6,9″ Super Retina XDR OLED."
+    },
+    {
+      "id": "TST-031",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в Mac mini M4 Pro?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер; Neural Engine 16 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Mac mini M4 Pro зазначено: M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер; Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-032",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods 4 у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "чіп H1",
+        "C": "чіп H2",
+        "D": "A17 Pro, 6-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для AirPods 4 зазначено: чіп H2."
+    },
+    {
+      "id": "TST-033",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 16 Pro у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "A18 Pro",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 16 Pro зазначено: A18 Pro."
+    },
+    {
+      "id": "TST-034",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Air 13″ M3?",
+      "options": {
+        "A": "Wi‑Fi 7; Bluetooth 6",
+        "B": "Wi‑Fi 7, Bluetooth 6",
+        "C": "Wi‑Fi 6E, Bluetooth 5.3",
+        "D": "Wi‑Fi 6E; Bluetooth 5.3"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M3 зазначено: Wi‑Fi 6E, Bluetooth 5.3."
+    },
+    {
+      "id": "TST-035",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Pro 14″ M4?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 7, Bluetooth 6",
+        "C": "Wi‑Fi 7; Bluetooth 6",
+        "D": "Wi‑Fi 6E; Bluetooth 5.3"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 зазначено: Wi‑Fi 6E; Bluetooth 5.3."
+    },
+    {
+      "id": "TST-036",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для Mac mini M5 Pro?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с",
+        "C": "Wi‑Fi 7, Bluetooth 6",
+        "D": "Wi‑Fi 6E; Bluetooth 5.3"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Mac mini M5 Pro зазначено: Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с."
+    },
+    {
+      "id": "TST-037",
+      "category": "iPhone",
+      "topic": "iPhone / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPhone 16 Pro Max за таблицею характеристик?",
+      "options": {
+        "A": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 5×); LiDAR",
+        "B": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "C": "48 Мп Fusion, ƒ/1.78; 48 Мп Ultra Wide, ƒ/2.2; 12 Мп телефото 5×, ƒ/2.8",
+        "D": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 16 Pro Max зазначено: 48 Мп Fusion, ƒ/1.78; 48 Мп Ultra Wide, ƒ/2.2; 12 Мп телефото 5×, ƒ/2.8."
+    },
+    {
+      "id": "TST-038",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone Air у специфікації?",
+      "options": {
+        "A": "A19 Pro",
+        "B": "A18, 4-ядерний GPU",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone Air зазначено: A19 Pro."
+    },
+    {
+      "id": "TST-039",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Pro 14″ M4 Pro?",
+      "options": {
+        "A": "Liquid Retina XDR, 3456×2234",
+        "B": "Liquid Retina XDR, 3024×1964",
+        "C": "Liquid Retina IPS, 2560×1664, 500 ніт",
+        "D": "Liquid Retina IPS, 2880×1864, 500 ніт"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 Pro зазначено: Liquid Retina XDR, 3024×1964."
+    },
+    {
+      "id": "TST-040",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 13″ M3?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M3 зазначено: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+    },
+    {
+      "id": "TST-041",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Series 11 у специфікації?",
+      "options": {
+        "A": "S10 SiP",
+        "B": "S9 SiP",
+        "C": "S11 SiP",
+        "D": "S7 SiP"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 11 зазначено: S10 SiP."
+    },
+    {
+      "id": "TST-042",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Pro 14″ M5?",
+      "options": {
+        "A": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "B": "MagSafe 3; Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "C": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "D": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 зазначено: MagSafe 3; Thunderbolt 4; HDMI; SDXC; 3,5 мм."
+    },
+    {
+      "id": "TST-043",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 13″ M5?",
+      "options": {
+        "A": "M5, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M4, CPU 10 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M5 зазначено: M5, CPU 10 ядер, GPU 8 або 10 ядер."
+    },
+    {
+      "id": "TST-044",
+      "category": "Навушники",
+      "topic": "Навушники / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для AirPods Max 2?",
+      "options": {
+        "A": "USB‑C",
+        "B": "USB‑C; MagSafe/Qi/зарядка Apple Watch",
+        "C": "USB‑C; футляр підтримує бездротове заряджання",
+        "D": "USB‑C; окремо є Wireless Charging Case"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для AirPods Max 2 зазначено: USB‑C."
+    },
+    {
+      "id": "TST-045",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone Duo у специфікації?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A20 Pro",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone Duo зазначено: A20 Pro."
+    },
+    {
+      "id": "TST-046",
+      "category": "iPhone",
+      "topic": "iPhone / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPhone 16e?",
+      "options": {
+        "A": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "B": "6,1″ Super Retina XDR OLED, Dynamic Island, Always-On",
+        "C": "6,1″ Super Retina XDR OLED",
+        "D": "6,1″ Super Retina XDR OLED, Dynamic Island"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 16e зазначено: 6,1″ Super Retina XDR OLED."
+    },
+    {
+      "id": "TST-047",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в iMac M4?",
+      "options": {
+        "A": "M4: CPU 8 ядер / GPU 8 ядер (2 порти) або CPU 10 ядер / GPU 10 ядер (4 порти); Neural Engine 16 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iMac M4 зазначено: M4: CPU 8 ядер / GPU 8 ядер (2 порти) або CPU 10 ядер / GPU 10 ядер (4 порти); Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-048",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods 5 у специфікації?",
+      "options": {
+        "A": "чіп H2",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "чіп H1",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для AirPods 5 зазначено: чіп H2."
+    },
+    {
+      "id": "TST-049",
+      "category": "iPad Air",
+      "topic": "iPad Air / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPad Air M2?",
+      "options": {
+        "A": "USB-C, USB 2 (до 480 Мбіт/с)",
+        "B": "USB‑C (USB 3, до 10 Гбіт/с); Smart Connector",
+        "C": "USB-C, USB 3 (до 10 Гбіт/с)",
+        "D": "USB‑C (до 10 Гбіт/с); Smart Connector"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad Air M2 зазначено: USB‑C (до 10 Гбіт/с); Smart Connector."
+    },
+    {
+      "id": "TST-050",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Air 15″ M4?",
+      "options": {
+        "A": "Wi‑Fi 7; Bluetooth 6",
+        "B": "Wi‑Fi 6E; Bluetooth 5.3",
+        "C": "Wi‑Fi 6E, Bluetooth 5.3",
+        "D": "Wi‑Fi 7, Bluetooth 6"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M4 зазначено: Wi‑Fi 6E, Bluetooth 5.3."
+    },
+    {
+      "id": "TST-051",
+      "category": "Інші пристрої",
+      "topic": "Інші пристрої / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirTag (2-го покоління) у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "U1 (1-ше покоління UWB)",
+        "D": "UWB чип 2-го покоління Apple"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirTag (2-го покоління) зазначено: UWB чип 2-го покоління Apple."
+    },
+    {
+      "id": "TST-052",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPad Pro M4 11″?",
+      "options": {
+        "A": "ProMotion адаптивні 10–120 Гц",
+        "B": "60 Гц",
+        "C": "ProMotion до 120 Гц",
+        "D": "120 Гц"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad Pro M4 11″ зазначено: ProMotion адаптивні 10–120 Гц."
+    },
+    {
+      "id": "TST-053",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone Air?",
+      "options": {
+        "A": "80 Гц",
+        "B": "60 Гц",
+        "C": "120 Гц",
+        "D": "90 Гц"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone Air зазначено: 120 Гц."
+    },
+    {
+      "id": "TST-054",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 17 Pro у специфікації?",
+      "options": {
+        "A": "A19 Pro",
+        "B": "A16 Bionic, 5-ядерний GPU",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 17 Pro зазначено: A19 Pro."
+    },
+    {
+      "id": "TST-055",
+      "category": "Навушники",
+      "topic": "Навушники / автономність / акумулятор",
+      "type": "single",
+      "question": "Яка автономність або батарея зазначена для AirPods 5?",
+      "options": {
+        "A": "До 8 год із ANC; до 24 год із футляром",
+        "B": "До 4 год із ANC; до 7 год без керування шумом; із футляром — залежить від режиму (офіційна специфікація: до 22 год із ANC)",
+        "C": "До 4 год із ANC; до 20 год із футляром (ANC)",
+        "D": "До 5 год навушники; до 30 год із футляром"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для AirPods 5 зазначено: До 4 год із ANC; до 7 год без керування шумом; із футляром — залежить від режиму (офіційна специфікація: до 22 год із ANC)."
+    },
+    {
+      "id": "TST-056",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 15″ M3?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 10 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M3 зазначено: M3, CPU 8 ядер, GPU 10 ядер."
+    },
+    {
+      "id": "TST-057",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Series 12 у специфікації?",
+      "options": {
+        "A": "S11 SiP",
+        "B": "S10 SiP",
+        "C": "S7 SiP",
+        "D": "S9 SiP"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 12 зазначено: S11 SiP."
+    },
+    {
+      "id": "TST-058",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M5?",
+      "options": {
+        "A": "M5: CPU 10 ядер; GPU 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 зазначено: M5: CPU 10 ядер; GPU 10 ядер."
+    },
+    {
+      "id": "TST-059",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M5 Max?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M5 Max: CPU 18 ядер; GPU 32 або 40 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 Max зазначено: M5 Max: CPU 18 ядер; GPU 32 або 40 ядер."
+    },
+    {
+      "id": "TST-060",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone 16 Pro?",
+      "options": {
+        "A": "60 Гц",
+        "B": "80 Гц",
+        "C": "90 Гц",
+        "D": "120 Гц"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 16 Pro зазначено: 120 Гц."
+    },
+    {
+      "id": "TST-061",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Air 15″ M5?",
+      "options": {
+        "A": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "B": "MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм",
+        "C": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "D": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M5 зазначено: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм."
+    },
+    {
+      "id": "TST-062",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M4 Pro?",
+      "options": {
+        "A": "M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер",
+        "B": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M4, CPU 10 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 Pro зазначено: M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер."
+    },
+    {
+      "id": "TST-063",
+      "category": "iPhone",
+      "topic": "iPhone / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPhone 17?",
+      "options": {
+        "A": "6,1″ Super Retina XDR OLED, Dynamic Island, Always-On",
+        "B": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "C": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "D": "6,3″ Super Retina XDR OLED"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 17 зазначено: 6,3″ Super Retina XDR OLED."
+    },
+    {
+      "id": "TST-064",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods Pro 3 у специфікації?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "A16 Bionic, 5-ядерний GPU",
+        "C": "чіп H1",
+        "D": "чіп H2"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirPods Pro 3 зазначено: чіп H2."
+    },
+    {
+      "id": "TST-065",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 17 у специфікації?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A19"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 17 зазначено: A19."
+    },
+    {
+      "id": "TST-066",
+      "category": "iPad Air",
+      "topic": "iPad Air / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPad Air M4?",
+      "options": {
+        "A": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "B": "Liquid Retina IPS; 11″: 2360×1640, 500 ніт; 13″: 2732×2048, 600 ніт; P3, True Tone",
+        "C": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "D": "Liquid Retina IPS, 2360×1640, 500 ніт, P3, True Tone"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPad Air M4 зазначено: Liquid Retina IPS; 11″: 2360×1640, 500 ніт; 13″: 2732×2048, 600 ніт; P3, True Tone."
+    },
+    {
+      "id": "TST-067",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Air 13″ M5?",
+      "options": {
+        "A": "Liquid Retina XDR, 3024×1964",
+        "B": "Liquid Retina XDR, 3456×2234",
+        "C": "Liquid Retina IPS, 2560×1664, 500 ніт",
+        "D": "Liquid Retina IPS, 2880×1864, 500 ніт"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M5 зазначено: Liquid Retina IPS, 2560×1664, 500 ніт."
+    },
+    {
+      "id": "TST-068",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods 4 з активним поглинанням шуму у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "чіп H2",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "чіп H1"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для AirPods 4 з активним поглинанням шуму зазначено: чіп H2."
+    },
+    {
+      "id": "TST-069",
+      "category": "Навушники",
+      "topic": "Навушники / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для AirPods 4 з активним поглинанням шуму?",
+      "options": {
+        "A": "Bluetooth 5.0",
+        "B": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC, UWB 2-го покоління, Thread",
+        "C": "Bluetooth 5.3",
+        "D": "5G, Wi-Fi 6, Bluetooth 5.3, NFC, UWB 2-го покоління"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для AirPods 4 з активним поглинанням шуму зазначено: Bluetooth 5.3."
+    },
+    {
+      "id": "TST-070",
+      "category": "Навушники",
+      "topic": "Навушники / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для AirPods 4?",
+      "options": {
+        "A": "USB‑C; MagSafe/Qi/зарядка Apple Watch",
+        "B": "USB‑C; футляр підтримує бездротове заряджання",
+        "C": "USB‑C; окремо є Wireless Charging Case",
+        "D": "USB‑C"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirPods 4 зазначено: USB‑C."
+    },
+    {
+      "id": "TST-071",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 15″ M4?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M4 зазначено: M4, CPU 10 ядер, GPU 10 ядер."
+    },
+    {
+      "id": "TST-072",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Air 15″ M3?",
+      "options": {
+        "A": "Liquid Retina XDR, 3456×2234",
+        "B": "Liquid Retina IPS, 2560×1664, 500 ніт",
+        "C": "Liquid Retina XDR, 3024×1964",
+        "D": "Liquid Retina IPS, 2880×1864, 500 ніт"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Air 15″ M3 зазначено: Liquid Retina IPS, 2880×1864, 500 ніт."
+    },
+    {
+      "id": "TST-073",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в Mac mini M4?",
+      "options": {
+        "A": "M4: CPU 10 ядер; GPU 10 ядер; Neural Engine 16 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Mac mini M4 зазначено: M4: CPU 10 ядер; GPU 10 ядер; Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-074",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Pro 16″ M4 Max?",
+      "options": {
+        "A": "Liquid Retina XDR, 3456×2234",
+        "B": "Liquid Retina IPS, 2560×1664, 500 ніт",
+        "C": "Liquid Retina IPS, 2880×1864, 500 ніт",
+        "D": "Liquid Retina XDR, 3024×1964"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M4 Max зазначено: Liquid Retina XDR, 3456×2234."
+    },
+    {
+      "id": "TST-075",
+      "category": "MacBook",
+      "topic": "MacBook / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для MacBook Neo у специфікації?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A18 Pro: CPU 6 ядер (2 продуктивності + 4 ефективності), GPU 5 ядер, Neural Engine 16 ядер",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Neo зазначено: A18 Pro: CPU 6 ядер (2 продуктивності + 4 ефективності), GPU 5 ядер, Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-076",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPad Pro M5 11″ за таблицею характеристик?",
+      "options": {
+        "A": "12 Мп wide + 10 Мп ultra-wide; LiDAR",
+        "B": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "C": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "D": "12 Мп wide; LiDAR; адаптивний спалах True Tone"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad Pro M5 11″ зазначено: 12 Мп wide; LiDAR; адаптивний спалах True Tone."
+    },
+    {
+      "id": "TST-077",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Pro 14″ M5 Pro?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 7; Bluetooth 6",
+        "C": "Wi‑Fi 6E; Bluetooth 5.3",
+        "D": "Wi‑Fi 7, Bluetooth 6"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 Pro зазначено: Wi‑Fi 7; Bluetooth 6."
+    },
+    {
+      "id": "TST-078",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Pro 14″ M4 Max?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 7, Bluetooth 6",
+        "C": "Wi‑Fi 6E; Bluetooth 5.3",
+        "D": "Wi‑Fi 7; Bluetooth 6"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 Max зазначено: Wi‑Fi 6E; Bluetooth 5.3."
+    },
+    {
+      "id": "TST-079",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в Mac mini M5 Pro?",
+      "options": {
+        "A": "M5 Pro: CPU до 18 ядер; GPU до 20 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Mac mini M5 Pro зазначено: M5 Pro: CPU до 18 ядер; GPU до 20 ядер."
+    },
+    {
+      "id": "TST-080",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Pro M5 11″?",
+      "options": {
+        "A": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "B": "M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM",
+        "C": "M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM",
+        "D": "M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Pro M5 11″ зазначено: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM."
+    },
+    {
+      "id": "TST-081",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 18 Pro у специфікації?",
+      "options": {
+        "A": "A20 Pro",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 18 Pro зазначено: A20 Pro."
+    },
+    {
+      "id": "TST-082",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в Mac mini M6?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M6: CPU 12 ядер; GPU 12 ядер; Dual 16-core Neural Engine"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Mac mini M6 зазначено: M6: CPU 12 ядер; GPU 12 ядер; Dual 16-core Neural Engine."
+    },
+    {
+      "id": "TST-083",
+      "category": "MacBook",
+      "topic": "MacBook / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Neo?",
+      "options": {
+        "A": "USB-C, USB 2 (до 480 Мбіт/с)",
+        "B": "1× USB‑C USB 3 (до 10 Гбіт/с, заряджання, DisplayPort); 1× USB‑C USB 2 (до 480 Мбіт/с, заряджання); 3,5 мм",
+        "C": "USB-C, USB 2 — до 480 Мбіт/с",
+        "D": "USB-C, USB 3 (до 10 Гбіт/с)"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Neo зазначено: 1× USB‑C USB 3 (до 10 Гбіт/с, заряджання, DisplayPort); 1× USB‑C USB 2 (до 480 Мбіт/с, заряджання); 3,5 мм."
+    },
+    {
+      "id": "TST-084",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 18 Pro Max у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A20 Pro",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone 18 Pro Max зазначено: A20 Pro."
+    },
+    {
+      "id": "TST-085",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / діагональ / розмір",
+      "type": "single",
+      "question": "Який розмір зазначено для Apple Watch SE 3?",
+      "options": {
+        "A": "42/46 мм",
+        "B": "49 мм",
+        "C": "40/44 мм",
+        "D": "41/45 мм"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для Apple Watch SE 3 зазначено: 40/44 мм."
+    },
+    {
+      "id": "TST-086",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone 17e?",
+      "options": {
+        "A": "ProMotion до 120 Гц",
+        "B": "ProMotion, до 120 Гц",
+        "C": "120 Гц",
+        "D": "60 Гц"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone 17e зазначено: 60 Гц."
+    },
+    {
+      "id": "TST-087",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для Mac mini M4 Pro?",
+      "options": {
+        "A": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "B": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "C": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "D": "3× Thunderbolt 5, 2× USB-A, HDMI, Gigabit Ethernet, 3,5 мм"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Mac mini M4 Pro зазначено: 3× Thunderbolt 5, 2× USB-A, HDMI, Gigabit Ethernet, 3,5 мм."
+    },
+    {
+      "id": "TST-088",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / діагональ / розмір",
+      "type": "single",
+      "question": "Який розмір зазначено для Apple Watch Series 10?",
+      "options": {
+        "A": "40/44 мм",
+        "B": "41/45 мм",
+        "C": "42/46 мм",
+        "D": "49 мм"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 10 зазначено: 42/46 мм."
+    },
+    {
+      "id": "TST-089",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для MacBook Pro 14″ M5 Max?",
+      "options": {
+        "A": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "B": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "C": "MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм",
+        "D": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M5 Max зазначено: MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм."
+    },
+    {
+      "id": "TST-090",
+      "category": "iPad mini",
+      "topic": "iPad mini / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPad mini 7 A17 Pro?",
+      "options": {
+        "A": "USB‑C (до 5 Гбіт/с); Smart Connector",
+        "B": "USB‑C (до 10 Гбіт/с); Smart Connector",
+        "C": "USB-C, USB 3 (до 10 Гбіт/с)",
+        "D": "USB-C, USB 2 (до 480 Мбіт/с)"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPad mini 7 A17 Pro зазначено: USB‑C (до 10 Гбіт/с); Smart Connector."
+    },
+    {
+      "id": "TST-091",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPad Pro M5 13″?",
+      "options": {
+        "A": "Liquid Retina XDR mini‑LED, 2732×2048, ProMotion, до 1600 ніт HDR",
+        "B": "Ultra Retina XDR tandem OLED, 2420×1668, до 1000 ніт SDR, 1600 ніт HDR",
+        "C": "Liquid Retina IPS, 2388×1668, до 600 ніт, P3, True Tone",
+        "D": "Ultra Retina XDR tandem OLED, 2752×2064, до 1000 ніт SDR, 1600 ніт HDR"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad Pro M5 13″ зазначено: Ultra Retina XDR tandem OLED, 2752×2064, до 1000 ніт SDR, 1600 ніт HDR."
+    },
+    {
+      "id": "TST-092",
+      "category": "Навушники",
+      "topic": "Навушники / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для AirPods Pro 3?",
+      "options": {
+        "A": "Bluetooth 5.0",
+        "B": "5G, Wi-Fi 6, Bluetooth 5.3, NFC, UWB 2-го покоління",
+        "C": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC, UWB 2-го покоління, Thread",
+        "D": "Bluetooth 5.3"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirPods Pro 3 зазначено: Bluetooth 5.3."
+    },
+    {
+      "id": "TST-093",
+      "category": "iPad Air",
+      "topic": "iPad Air / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPad Air M3 за таблицею характеристик?",
+      "options": {
+        "A": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 5×); LiDAR",
+        "B": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "C": "12 Мп ширококутна, ƒ/1.8",
+        "D": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Air M3 зазначено: 12 Мп ширококутна, ƒ/1.8."
+    },
+    {
+      "id": "TST-094",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / автономність / акумулятор",
+      "type": "single",
+      "question": "Яка автономність або батарея зазначена для Apple Watch Series 11?",
+      "options": {
+        "A": "До 24 год; до 10 год тренування надворі",
+        "B": "До 36 год; до 72 год у режимі економії",
+        "C": "До 18 год; до 36 год у режимі економії",
+        "D": "До 24 год"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 11 зазначено: До 24 год."
+    },
+    {
+      "id": "TST-095",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone Duo?",
+      "options": {
+        "A": "60 Гц",
+        "B": "90 Гц",
+        "C": "80 Гц",
+        "D": "120 Гц"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone Duo зазначено: ProMotion, до 120 Гц."
+    },
+    {
+      "id": "TST-096",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Pro 16″ M5 Pro?",
+      "options": {
+        "A": "Liquid Retina IPS, 2560×1664, 500 ніт",
+        "B": "Liquid Retina XDR, 3024×1964",
+        "C": "Liquid Retina IPS, 2880×1864, 500 ніт",
+        "D": "Liquid Retina XDR, 3456×2234"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M5 Pro зазначено: Liquid Retina XDR, 3456×2234."
+    },
+    {
+      "id": "TST-097",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M4 Max?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M4 Max зазначено: M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер."
+    },
+    {
+      "id": "TST-098",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для Mac mini M4?",
+      "options": {
+        "A": "Wi‑Fi 6E; Bluetooth 5.3",
+        "B": "Wi‑Fi 6E; Bluetooth 5.3; Gigabit Ethernet",
+        "C": "Wi‑Fi 7, Bluetooth 6",
+        "D": "Wi‑Fi 6E, Bluetooth 5.3"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Mac mini M4 зазначено: Wi‑Fi 6E; Bluetooth 5.3; Gigabit Ethernet."
+    },
+    {
+      "id": "TST-099",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 16″ M5 Max?",
+      "options": {
+        "A": "M5 Max: CPU 18 ядер; GPU 32 або 40 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 16″ M5 Max зазначено: M5 Max: CPU 18 ядер; GPU 32 або 40 ядер."
+    },
+    {
+      "id": "TST-100",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Pro M4 13″?",
+      "options": {
+        "A": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "B": "M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM",
+        "C": "M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM",
+        "D": "M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Pro M4 13″ зазначено: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM."
+    },
+    {
+      "id": "TST-101",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone 18 Pro Max?",
+      "options": {
+        "A": "90 Гц",
+        "B": "80 Гц",
+        "C": "ProMotion, до 120 Гц",
+        "D": "60 Гц"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 18 Pro Max зазначено: ProMotion, до 120 Гц."
+    },
+    {
+      "id": "TST-102",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для Apple Watch Series 12?",
+      "options": {
+        "A": "Wi‑Fi 4; Bluetooth 5.3; UWB 2-го покоління; GPS або GPS + Cellular",
+        "B": "Wi‑Fi 4; Bluetooth 5.3; GPS або GPS + Cellular",
+        "C": "Wi‑Fi; Bluetooth 5.3; GPS або GPS + Cellular",
+        "D": "GPS; бездротові параметри уточнювати за офіційною техспецифікацією регіону"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 12 зазначено: GPS; бездротові параметри уточнювати за офіційною техспецифікацією регіону."
+    },
+    {
+      "id": "TST-103",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 13″ M4?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M4, CPU 10 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M4 зазначено: M4, CPU 10 ядер, GPU 8 або 10 ядер."
+    },
+    {
+      "id": "TST-104",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 16 Pro Max у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A18, 4-ядерний GPU",
+        "C": "A18 Pro",
+        "D": "A17 Pro, 6-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 16 Pro Max зазначено: A18 Pro."
+    },
+    {
+      "id": "TST-105",
+      "category": "iPad Air",
+      "topic": "iPad Air / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Air M4?",
+      "options": {
+        "A": "M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті",
+        "B": "M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "C": "M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "D": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad Air M4 зазначено: M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті."
+    },
+    {
+      "id": "TST-106",
+      "category": "Інші пристрої",
+      "topic": "Інші пристрої / автономність / акумулятор",
+      "type": "single",
+      "question": "Яка автономність або батарея зазначена для AirTag (2-го покоління)?",
+      "options": {
+        "A": "Змінна батарейка CR2032",
+        "B": "4383 мА·год",
+        "C": "3274 мА·год",
+        "D": "3349 мА·год"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для AirTag (2-го покоління) зазначено: Змінна батарейка CR2032."
+    },
+    {
+      "id": "TST-107",
+      "category": "iPad Air",
+      "topic": "iPad Air / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Air M2?",
+      "options": {
+        "A": "M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті",
+        "B": "M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "C": "M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "D": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Air M2 зазначено: M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті."
+    },
+    {
+      "id": "TST-108",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 16″ M4 Max.",
+      "options": {
+        "A": "Тип дисплея MacBook Pro 16″ M4 Max: Liquid Retina XDR, 3456×2234.",
+        "B": "Тип дисплея MacBook Pro 16″ M4 Max: Liquid Retina IPS, 2560×1664, 500 ніт.",
+        "C": "Чип/процесор MacBook Pro 16″ M4 Max: M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер.",
+        "D": "Чип/процесор MacBook Pro 16″ M4 Max: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 16″ M4 Max: чип/процесор — M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер; тип дисплея — Liquid Retina XDR, 3456×2234. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-109",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 17 Pro Max.",
+      "options": {
+        "A": "Чип/процесор iPhone 17 Pro Max: A16 Bionic, 5-ядерний GPU.",
+        "B": "Тип дисплея iPhone 17 Pro Max: 6,9″ Super Retina XDR OLED.",
+        "C": "Чип/процесор iPhone 17 Pro Max: A19 Pro.",
+        "D": "Тип дисплея iPhone 17 Pro Max: 6,1″ Super Retina XDR OLED, Dynamic Island."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPhone 17 Pro Max: чип/процесор — A19 Pro; тип дисплея — 6,9″ Super Retina XDR OLED. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-110",
+      "category": "Навушники",
+      "topic": "Навушники / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirPods 4 з активним поглинанням шуму.",
+      "options": {
+        "A": "Бездротовий зв'язок AirPods 4 з активним поглинанням шуму: Bluetooth 5.0.",
+        "B": "Бездротовий зв'язок AirPods 4 з активним поглинанням шуму: Bluetooth 5.3.",
+        "C": "Чип/процесор AirPods 4 з активним поглинанням шуму: чіп H2.",
+        "D": "Чип/процесор AirPods 4 з активним поглинанням шуму: чіп H1."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують AirPods 4 з активним поглинанням шуму: чип/процесор — чіп H2; бездротовий зв'язок — Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-111",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 16″ M5 Pro.",
+      "options": {
+        "A": "Тип дисплея MacBook Pro 16″ M5 Pro: Liquid Retina XDR, 3456×2234.",
+        "B": "Чип/процесор MacBook Pro 16″ M5 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "C": "Чип/процесор MacBook Pro 16″ M5 Pro: M5 Pro: CPU до 18 ядер; GPU 20 ядер.",
+        "D": "Тип дисплея MacBook Pro 16″ M5 Pro: Liquid Retina IPS, 2560×1664, 500 ніт."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 16″ M5 Pro: чип/процесор — M5 Pro: CPU до 18 ядер; GPU 20 ядер; тип дисплея — Liquid Retina XDR, 3456×2234. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-112",
+      "category": "Навушники",
+      "topic": "Навушники / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirPods 5.",
+      "options": {
+        "A": "Автономність / акумулятор AirPods 5: До 5 год навушники; до 30 год із футляром.",
+        "B": "Автономність / акумулятор AirPods 5: До 4 год із ANC; до 7 год без керування шумом; із футляром — залежить від режиму (офіційна специфікація: до 22 год із ANC).",
+        "C": "Чип/процесор AirPods 5: чіп H2.",
+        "D": "Чип/процесор AirPods 5: чіп H1."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують AirPods 5: чип/процесор — чіп H2; автономність / акумулятор — До 4 год із ANC; до 7 год без керування шумом; із футляром — залежить від режиму (офіційна специфікація: до 22 год із ANC). Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-113",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 13″ M5.",
+      "options": {
+        "A": "Чип/процесор MacBook Air 13″ M5: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Тип дисплея MacBook Air 13″ M5: Liquid Retina IPS, 2560×1664, 500 ніт.",
+        "C": "Тип дисплея MacBook Air 13″ M5: Liquid Retina IPS, 2880×1864, 500 ніт.",
+        "D": "Чип/процесор MacBook Air 13″ M5: M5, CPU 10 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 13″ M5: чип/процесор — M5, CPU 10 ядер, GPU 8 або 10 ядер; тип дисплея — Liquid Retina IPS, 2560×1664, 500 ніт. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-114",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 17e.",
+      "options": {
+        "A": "Чип/процесор iPhone 17e: A19.",
+        "B": "Частота оновлення дисплея iPhone 17e: 60 Гц.",
+        "C": "Частота оновлення дисплея iPhone 17e: 120 Гц.",
+        "D": "Чип/процесор iPhone 17e: A16 Bionic, 5-ядерний GPU."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Правильні твердження описують iPhone 17e: чип/процесор — A19; частота оновлення дисплея — 60 Гц. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-115",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M5 Max.",
+      "options": {
+        "A": "Порти / роз'єм MacBook Pro 14″ M5 Max: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "B": "Чип/процесор MacBook Pro 14″ M5 Max: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "C": "Порти / роз'єм MacBook Pro 14″ M5 Max: MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм.",
+        "D": "Чип/процесор MacBook Pro 14″ M5 Max: M5 Max: CPU 18 ядер; GPU 32 або 40 ядер."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M5 Max: чип/процесор — M5 Max: CPU 18 ядер; GPU 32 або 40 ядер; порти / роз'єм — MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-116",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M5.",
+      "options": {
+        "A": "Порти / роз'єм MacBook Pro 14″ M5: MagSafe 3; Thunderbolt 4; HDMI; SDXC; 3,5 мм.",
+        "B": "Чип/процесор MacBook Pro 14″ M5: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "C": "Чип/процесор MacBook Pro 14″ M5: M5: CPU 10 ядер; GPU 10 ядер.",
+        "D": "Порти / роз'єм MacBook Pro 14″ M5: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M5: чип/процесор — M5: CPU 10 ядер; GPU 10 ядер; порти / роз'єм — MagSafe 3; Thunderbolt 4; HDMI; SDXC; 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-117",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch Series 10.",
+      "options": {
+        "A": "Чип/процесор Apple Watch Series 10: S9 SiP.",
+        "B": "Діагональ / розмір Apple Watch Series 10: 41/45 мм.",
+        "C": "Діагональ / розмір Apple Watch Series 10: 42/46 мм.",
+        "D": "Чип/процесор Apple Watch Series 10: S10 SiP."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch Series 10: чип/процесор — S10 SiP; діагональ / розмір — 42/46 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-118",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M4.",
+      "options": {
+        "A": "Чип/процесор MacBook Pro 14″ M4: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Бездротовий зв'язок MacBook Pro 14″ M4: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Бездротовий зв'язок MacBook Pro 14″ M4: Wi‑Fi 6E; Bluetooth 5.3.",
+        "D": "Чип/процесор MacBook Pro 14″ M4: M4: CPU 10 ядер; GPU 10 ядер."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M4: чип/процесор — M4: CPU 10 ядер; GPU 10 ядер; бездротовий зв'язок — Wi‑Fi 6E; Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-119",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Pro M5 11″.",
+      "options": {
+        "A": "Чип/процесор iPad Pro M5 11″: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM.",
+        "B": "Чип/процесор iPad Pro M5 11″: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM.",
+        "C": "Система камер iPad Pro M5 11″: 12 Мп wide; LiDAR; адаптивний спалах True Tone.",
+        "D": "Система камер iPad Pro M5 11″: 12 Мп wide + 10 Мп ultra-wide; LiDAR."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPad Pro M5 11″: чип/процесор — M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM; система камер — 12 Мп wide; LiDAR; адаптивний спалах True Tone. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-120",
+      "category": "iPad",
+      "topic": "iPad / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad A16.",
+      "options": {
+        "A": "Чип/процесор iPad A16: A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер.",
+        "B": "Чип/процесор iPad A16: A13 Bionic; Neural Engine.",
+        "C": "Тип дисплея iPad A16: Liquid Retina IPS, 2360×1640, 500 ніт, True Tone.",
+        "D": "Тип дисплея iPad A16: Retina IPS, 2160×1620, 500 ніт, True Tone."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPad A16: чип/процесор — A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер; тип дисплея — Liquid Retina IPS, 2360×1640, 500 ніт, True Tone. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-121",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch Series 12.",
+      "options": {
+        "A": "Чип/процесор Apple Watch Series 12: S9 SiP.",
+        "B": "Бездротовий зв'язок Apple Watch Series 12: Wi‑Fi; Bluetooth 5.3; GPS або GPS + Cellular.",
+        "C": "Чип/процесор Apple Watch Series 12: S11 SiP.",
+        "D": "Бездротовий зв'язок Apple Watch Series 12: GPS; бездротові параметри уточнювати за офіційною техспецифікацією регіону."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch Series 12: чип/процесор — S11 SiP; бездротовий зв'язок — GPS; бездротові параметри уточнювати за офіційною техспецифікацією регіону. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-122",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 15″ M3.",
+      "options": {
+        "A": "Тип дисплея MacBook Air 15″ M3: Liquid Retina IPS, 2560×1664, 500 ніт.",
+        "B": "Тип дисплея MacBook Air 15″ M3: Liquid Retina IPS, 2880×1864, 500 ніт.",
+        "C": "Чип/процесор MacBook Air 15″ M3: M3, CPU 8 ядер, GPU 10 ядер.",
+        "D": "Чип/процесор MacBook Air 15″ M3: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 15″ M3: чип/процесор — M3, CPU 8 ядер, GPU 10 ядер; тип дисплея — Liquid Retina IPS, 2880×1864, 500 ніт. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-123",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch Ultra 4.",
+      "options": {
+        "A": "Бездротовий зв'язок Apple Watch Ultra 4: Wi‑Fi; Bluetooth 5.3; GPS або GPS + Cellular.",
+        "B": "Бездротовий зв'язок Apple Watch Ultra 4: GPS + Cellular + супутниковий зв’язок; Wi‑Fi; Bluetooth.",
+        "C": "Чип/процесор Apple Watch Ultra 4: S9 SiP.",
+        "D": "Чип/процесор Apple Watch Ultra 4: S11 SiP."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch Ultra 4: чип/процесор — S11 SiP; бездротовий зв'язок — GPS + Cellular + супутниковий зв’язок; Wi‑Fi; Bluetooth. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-124",
+      "category": "Навушники",
+      "topic": "Навушники / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirPods Max 2.",
+      "options": {
+        "A": "Порти / роз'єм AirPods Max 2: USB‑C.",
+        "B": "Чип/процесор AirPods Max 2: чіп H1.",
+        "C": "Чип/процесор AirPods Max 2: чіп H2.",
+        "D": "Порти / роз'єм AirPods Max 2: USB‑C; футляр підтримує бездротове заряджання."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують AirPods Max 2: чип/процесор — чіп H2; порти / роз'єм — USB‑C. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-125",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 15″ M5.",
+      "options": {
+        "A": "Чип/процесор MacBook Air 15″ M5: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Порти / роз'єм MacBook Air 15″ M5: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "C": "Чип/процесор MacBook Air 15″ M5: M5, CPU 10 ядер, GPU 10 ядер.",
+        "D": "Порти / роз'єм MacBook Air 15″ M5: MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 15″ M5: чип/процесор — M5, CPU 10 ядер, GPU 10 ядер; порти / роз'єм — MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-126",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Pro M4 11″.",
+      "options": {
+        "A": "Чип/процесор iPad Pro M4 11″: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM.",
+        "B": "Частота оновлення дисплея iPad Pro M4 11″: ProMotion до 120 Гц.",
+        "C": "Частота оновлення дисплея iPad Pro M4 11″: ProMotion адаптивні 10–120 Гц.",
+        "D": "Чип/процесор iPad Pro M4 11″: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPad Pro M4 11″: чип/процесор — M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM; частота оновлення дисплея — ProMotion адаптивні 10–120 Гц. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-127",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 16″ M4 Pro.",
+      "options": {
+        "A": "Порти / роз'єм MacBook Pro 16″ M4 Pro: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "B": "Порти / роз'єм MacBook Pro 16″ M4 Pro: MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм.",
+        "C": "Чип/процесор MacBook Pro 16″ M4 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "D": "Чип/процесор MacBook Pro 16″ M4 Pro: M4 Pro: CPU 14 ядер; GPU 20 ядер."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 16″ M4 Pro: чип/процесор — M4 Pro: CPU 14 ядер; GPU 20 ядер; порти / роз'єм — MagSafe 3; 3× Thunderbolt 5; HDMI; SDXC; 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-128",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 18 Pro Max.",
+      "options": {
+        "A": "Частота оновлення дисплея iPhone 18 Pro Max: 60 Гц.",
+        "B": "Чип/процесор iPhone 18 Pro Max: A16 Bionic, 5-ядерний GPU.",
+        "C": "Частота оновлення дисплея iPhone 18 Pro Max: ProMotion, до 120 Гц.",
+        "D": "Чип/процесор iPhone 18 Pro Max: A20 Pro."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPhone 18 Pro Max: чип/процесор — A20 Pro; частота оновлення дисплея — ProMotion, до 120 Гц. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-129",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Mac mini M4.",
+      "options": {
+        "A": "Чип/процесор Mac mini M4: M4: CPU 10 ядер; GPU 10 ядер; Neural Engine 16 ядер.",
+        "B": "Чип/процесор Mac mini M4: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "C": "Бездротовий зв'язок Mac mini M4: Wi‑Fi 6E, Bluetooth 5.3.",
+        "D": "Бездротовий зв'язок Mac mini M4: Wi‑Fi 6E; Bluetooth 5.3; Gigabit Ethernet."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Mac mini M4: чип/процесор — M4: CPU 10 ядер; GPU 10 ядер; Neural Engine 16 ядер; бездротовий зв'язок — Wi‑Fi 6E; Bluetooth 5.3; Gigabit Ethernet. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-130",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone Air.",
+      "options": {
+        "A": "Частота оновлення дисплея iPhone Air: 60 Гц.",
+        "B": "Чип/процесор iPhone Air: A16 Bionic, 5-ядерний GPU.",
+        "C": "Частота оновлення дисплея iPhone Air: 120 Гц.",
+        "D": "Чип/процесор iPhone Air: A19 Pro."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPhone Air: чип/процесор — A19 Pro; частота оновлення дисплея — 120 Гц. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-131",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Pro M4 13″.",
+      "options": {
+        "A": "Порти / роз'єм iPad Pro M4 13″: Thunderbolt / USB 4 (USB‑C).",
+        "B": "Чип/процесор iPad Pro M4 13″: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM.",
+        "C": "Порти / роз'єм iPad Pro M4 13″: USB-C, USB 2 (до 480 Мбіт/с).",
+        "D": "Чип/процесор iPad Pro M4 13″: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPad Pro M4 13″: чип/процесор — M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM; порти / роз'єм — Thunderbolt / USB 4 (USB‑C). Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-132",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M4 Max.",
+      "options": {
+        "A": "Бездротовий зв'язок MacBook Pro 14″ M4 Max: Wi‑Fi 6E; Bluetooth 5.3.",
+        "B": "Бездротовий зв'язок MacBook Pro 14″ M4 Max: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Чип/процесор MacBook Pro 14″ M4 Max: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "D": "Чип/процесор MacBook Pro 14″ M4 Max: M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M4 Max: чип/процесор — M4 Max: CPU 14 або 16 ядер; GPU 32 або 40 ядер; бездротовий зв'язок — Wi‑Fi 6E; Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-133",
+      "category": "MacBook",
+      "topic": "MacBook / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Neo.",
+      "options": {
+        "A": "Чип/процесор MacBook Neo: A16 Bionic, 5-ядерний GPU.",
+        "B": "Чип/процесор MacBook Neo: A18 Pro: CPU 6 ядер (2 продуктивності + 4 ефективності), GPU 5 ядер, Neural Engine 16 ядер.",
+        "C": "Порти / роз'єм MacBook Neo: 1× USB‑C USB 3 (до 10 Гбіт/с, заряджання, DisplayPort); 1× USB‑C USB 2 (до 480 Мбіт/с, заряджання); 3,5 мм.",
+        "D": "Порти / роз'єм MacBook Neo: USB-C, USB 2 (до 480 Мбіт/с)."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Neo: чип/процесор — A18 Pro: CPU 6 ядер (2 продуктивності + 4 ефективності), GPU 5 ядер, Neural Engine 16 ядер; порти / роз'єм — 1× USB‑C USB 3 (до 10 Гбіт/с, заряджання, DisplayPort); 1× USB‑C USB 2 (до 480 Мбіт/с, заряджання); 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-134",
+      "category": "iPad Air",
+      "topic": "iPad Air / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Air M2.",
+      "options": {
+        "A": "Чип/процесор iPad Air M2: M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті.",
+        "B": "Порти / роз'єм iPad Air M2: USB‑C (до 10 Гбіт/с); Smart Connector.",
+        "C": "Чип/процесор iPad Air M2: M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті.",
+        "D": "Порти / роз'єм iPad Air M2: USB‑C (USB 3, до 10 Гбіт/с); Smart Connector."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPad Air M2: чип/процесор — M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті; порти / роз'єм — USB‑C (до 10 Гбіт/с); Smart Connector. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-135",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch Series 11.",
+      "options": {
+        "A": "Автономність / акумулятор Apple Watch Series 11: До 18 год; до 36 год у режимі економії.",
+        "B": "Чип/процесор Apple Watch Series 11: S10 SiP.",
+        "C": "Чип/процесор Apple Watch Series 11: S9 SiP.",
+        "D": "Автономність / акумулятор Apple Watch Series 11: До 24 год."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch Series 11: чип/процесор — S10 SiP; автономність / акумулятор — До 24 год. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-136",
+      "category": "iPad Air",
+      "topic": "iPad Air / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Air M3.",
+      "options": {
+        "A": "Чип/процесор iPad Air M3: M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті.",
+        "B": "Чип/процесор iPad Air M3: M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті.",
+        "C": "Система камер iPad Air M3: Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці.",
+        "D": "Система камер iPad Air M3: 12 Мп ширококутна, ƒ/1.8."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPad Air M3: чип/процесор — M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті; система камер — 12 Мп ширококутна, ƒ/1.8. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-137",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 16e.",
+      "options": {
+        "A": "Тип дисплея iPhone 16e: 6,1″ Super Retina XDR OLED, Dynamic Island.",
+        "B": "Чип/процесор iPhone 16e: A16 Bionic, 5-ядерний GPU.",
+        "C": "Тип дисплея iPhone 16e: 6,1″ Super Retina XDR OLED.",
+        "D": "Чип/процесор iPhone 16e: A18, 4-ядерний GPU."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPhone 16e: чип/процесор — A18, 4-ядерний GPU; тип дисплея — 6,1″ Super Retina XDR OLED. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-138",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 17 Pro.",
+      "options": {
+        "A": "Чип/процесор iPhone 17 Pro: A19 Pro.",
+        "B": "Чип/процесор iPhone 17 Pro: A16 Bionic, 5-ядерний GPU.",
+        "C": "Порти / роз'єм iPhone 17 Pro: USB-C, USB 2 (до 480 Мбіт/с).",
+        "D": "Порти / роз'єм iPhone 17 Pro: USB-C, USB 3."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPhone 17 Pro: чип/процесор — A19 Pro; порти / роз'єм — USB-C, USB 3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-139",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 15″ M4.",
+      "options": {
+        "A": "Чип/процесор MacBook Air 15″ M4: M4, CPU 10 ядер, GPU 10 ядер.",
+        "B": "Бездротовий зв'язок MacBook Air 15″ M4: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Бездротовий зв'язок MacBook Air 15″ M4: Wi‑Fi 7, Bluetooth 6.",
+        "D": "Чип/процесор MacBook Air 15″ M4: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 15″ M4: чип/процесор — M4, CPU 10 ядер, GPU 10 ядер; бездротовий зв'язок — Wi‑Fi 6E, Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-140",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Mac mini M5 Pro.",
+      "options": {
+        "A": "Бездротовий зв'язок Mac mini M5 Pro: Wi‑Fi 6E, Bluetooth 5.3.",
+        "B": "Чип/процесор Mac mini M5 Pro: M5 Pro: CPU до 18 ядер; GPU до 20 ядер.",
+        "C": "Бездротовий зв'язок Mac mini M5 Pro: Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с.",
+        "D": "Чип/процесор Mac mini M5 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують Mac mini M5 Pro: чип/процесор — M5 Pro: CPU до 18 ядер; GPU до 20 ядер; бездротовий зв'язок — Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-141",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 17.",
+      "options": {
+        "A": "Тип дисплея iPhone 17: 6,3″ Super Retina XDR OLED.",
+        "B": "Тип дисплея iPhone 17: 6,1″ Super Retina XDR OLED, Dynamic Island.",
+        "C": "Чип/процесор iPhone 17: A19.",
+        "D": "Чип/процесор iPhone 17: A16 Bionic, 5-ядерний GPU."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPhone 17: чип/процесор — A19; тип дисплея — 6,3″ Super Retina XDR OLED. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-142",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Mac mini M4 Pro.",
+      "options": {
+        "A": "Чип/процесор Mac mini M4 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Порти / роз'єм Mac mini M4 Pro: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "C": "Порти / роз'єм Mac mini M4 Pro: 3× Thunderbolt 5, 2× USB-A, HDMI, Gigabit Ethernet, 3,5 мм.",
+        "D": "Чип/процесор Mac mini M4 Pro: M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер; Neural Engine 16 ядер."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Mac mini M4 Pro: чип/процесор — M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер; Neural Engine 16 ядер; порти / роз'єм — 3× Thunderbolt 5, 2× USB-A, HDMI, Gigabit Ethernet, 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-143",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch SE 3.",
+      "options": {
+        "A": "Чип/процесор Apple Watch SE 3: S9 SiP.",
+        "B": "Чип/процесор Apple Watch SE 3: S10 SiP.",
+        "C": "Діагональ / розмір Apple Watch SE 3: 41/45 мм.",
+        "D": "Діагональ / розмір Apple Watch SE 3: 40/44 мм."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch SE 3: чип/процесор — S10 SiP; діагональ / розмір — 40/44 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-144",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M5 Pro.",
+      "options": {
+        "A": "Чип/процесор MacBook Pro 14″ M5 Pro: M5 Pro: CPU до 18 ядер; GPU 20 ядер.",
+        "B": "Бездротовий зв'язок MacBook Pro 14″ M5 Pro: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Бездротовий зв'язок MacBook Pro 14″ M5 Pro: Wi‑Fi 7; Bluetooth 6.",
+        "D": "Чип/процесор MacBook Pro 14″ M5 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M5 Pro: чип/процесор — M5 Pro: CPU до 18 ядер; GPU 20 ядер; бездротовий зв'язок — Wi‑Fi 7; Bluetooth 6. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-145",
+      "category": "iPad mini",
+      "topic": "iPad mini / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad mini 7 A17 Pro.",
+      "options": {
+        "A": "Порти / роз'єм iPad mini 7 A17 Pro: USB‑C (до 10 Гбіт/с); Smart Connector.",
+        "B": "Чип/процесор iPad mini 7 A17 Pro: A17 Pro; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер.",
+        "C": "Чип/процесор iPad mini 7 A17 Pro: A15 Bionic; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер.",
+        "D": "Порти / роз'єм iPad mini 7 A17 Pro: USB‑C (до 5 Гбіт/с); Smart Connector."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Правильні твердження описують iPad mini 7 A17 Pro: чип/процесор — A17 Pro; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер; порти / роз'єм — USB‑C (до 10 Гбіт/с); Smart Connector. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-146",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 16″ M5 Max.",
+      "options": {
+        "A": "Чип/процесор MacBook Pro 16″ M5 Max: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Бездротовий зв'язок MacBook Pro 16″ M5 Max: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Чип/процесор MacBook Pro 16″ M5 Max: M5 Max: CPU 18 ядер; GPU 32 або 40 ядер.",
+        "D": "Бездротовий зв'язок MacBook Pro 16″ M5 Max: Wi‑Fi 7; Bluetooth 6."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 16″ M5 Max: чип/процесор — M5 Max: CPU 18 ядер; GPU 32 або 40 ядер; бездротовий зв'язок — Wi‑Fi 7; Bluetooth 6. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-147",
+      "category": "Навушники",
+      "topic": "Навушники / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirPods Pro 3.",
+      "options": {
+        "A": "Чип/процесор AirPods Pro 3: чіп H1.",
+        "B": "Бездротовий зв'язок AirPods Pro 3: Bluetooth 5.0.",
+        "C": "Бездротовий зв'язок AirPods Pro 3: Bluetooth 5.3.",
+        "D": "Чип/процесор AirPods Pro 3: чіп H2."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують AirPods Pro 3: чип/процесор — чіп H2; бездротовий зв'язок — Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-148",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Pro M5 13″.",
+      "options": {
+        "A": "Чип/процесор iPad Pro M5 13″: M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM.",
+        "B": "Тип дисплея iPad Pro M5 13″: Ultra Retina XDR tandem OLED, 2752×2064, до 1000 ніт SDR, 1600 ніт HDR.",
+        "C": "Чип/процесор iPad Pro M5 13″: M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM.",
+        "D": "Тип дисплея iPad Pro M5 13″: Ultra Retina XDR tandem OLED, 2420×1668, до 1000 ніт SDR, 1600 ніт HDR."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Правильні твердження описують iPad Pro M5 13″: чип/процесор — M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM; тип дисплея — Ultra Retina XDR tandem OLED, 2752×2064, до 1000 ніт SDR, 1600 ніт HDR. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-149",
+      "category": "iPad Air",
+      "topic": "iPad Air / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPad Air M4.",
+      "options": {
+        "A": "Чип/процесор iPad Air M4: M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті.",
+        "B": "Тип дисплея iPad Air M4: Liquid Retina IPS; 11″: 2360×1640, 500 ніт; 13″: 2732×2048, 600 ніт; P3, True Tone.",
+        "C": "Тип дисплея iPad Air M4: Liquid Retina IPS, 2360×1640, 500 ніт, P3, True Tone.",
+        "D": "Чип/процесор iPad Air M4: M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті."
+      },
+      "correct": [
+        "B",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iPad Air M4: чип/процесор — M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті; тип дисплея — Liquid Retina IPS; 11″: 2360×1640, 500 ніт; 13″: 2732×2048, 600 ніт; P3, True Tone. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-150",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Apple Watch Ultra 3.",
+      "options": {
+        "A": "Автономність / акумулятор Apple Watch Ultra 3: До 18 год; до 36 год у режимі економії.",
+        "B": "Чип/процесор Apple Watch Ultra 3: S10 SiP.",
+        "C": "Автономність / акумулятор Apple Watch Ultra 3: До 42 год; до 72 год у режимі економії.",
+        "D": "Чип/процесор Apple Watch Ultra 3: S9 SiP."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують Apple Watch Ultra 3: чип/процесор — S10 SiP; автономність / акумулятор — До 42 год; до 72 год у режимі економії. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-151",
+      "category": "Інші пристрої",
+      "topic": "Інші пристрої / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirTag (2-го покоління).",
+      "options": {
+        "A": "Чип/процесор AirTag (2-го покоління): UWB чип 2-го покоління Apple.",
+        "B": "Автономність / акумулятор AirTag (2-го покоління): 3349 мА·год.",
+        "C": "Чип/процесор AirTag (2-го покоління): U1 (1-ше покоління UWB).",
+        "D": "Автономність / акумулятор AirTag (2-го покоління): Змінна батарейка CR2032."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують AirTag (2-го покоління): чип/процесор — UWB чип 2-го покоління Apple; автономність / акумулятор — Змінна батарейка CR2032. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-152",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації Mac mini M6.",
+      "options": {
+        "A": "Чип/процесор Mac mini M6: M6: CPU 12 ядер; GPU 12 ядер; Dual 16-core Neural Engine.",
+        "B": "Бездротовий зв'язок Mac mini M6: Wi‑Fi 6E, Bluetooth 5.3.",
+        "C": "Бездротовий зв'язок Mac mini M6: Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с.",
+        "D": "Чип/процесор Mac mini M6: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують Mac mini M6: чип/процесор — M6: CPU 12 ядер; GPU 12 ядер; Dual 16-core Neural Engine; бездротовий зв'язок — Wi‑Fi 7; Bluetooth 6; Ethernet 2,5 Гбіт/с, опційно 10 Гбіт/с. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-153",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone Duo.",
+      "options": {
+        "A": "Чип/процесор iPhone Duo: A20 Pro.",
+        "B": "Частота оновлення дисплея iPhone Duo: ProMotion, до 120 Гц.",
+        "C": "Чип/процесор iPhone Duo: A16 Bionic, 5-ядерний GPU.",
+        "D": "Частота оновлення дисплея iPhone Duo: 60 Гц."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "explanation": "Правильні твердження описують iPhone Duo: чип/процесор — A20 Pro; частота оновлення дисплея — ProMotion, до 120 Гц. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-154",
+      "category": "Навушники",
+      "topic": "Навушники / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації AirPods 4.",
+      "options": {
+        "A": "Порти / роз'єм AirPods 4: USB‑C.",
+        "B": "Чип/процесор AirPods 4: чіп H1.",
+        "C": "Порти / роз'єм AirPods 4: USB‑C; футляр підтримує бездротове заряджання.",
+        "D": "Чип/процесор AirPods 4: чіп H2."
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують AirPods 4: чип/процесор — чіп H2; порти / роз'єм — USB‑C. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-155",
+      "category": "iPhone",
+      "topic": "iPhone / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iPhone 18 Pro.",
+      "options": {
+        "A": "Система камер iPhone 18 Pro: Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці.",
+        "B": "Система камер iPhone 18 Pro: 48 Мп Fusion із змінною діафрагмою; 48 Мп Ultra Wide; 48 Мп телефото 5×.",
+        "C": "Чип/процесор iPhone 18 Pro: A20 Pro.",
+        "D": "Чип/процесор iPhone 18 Pro: A16 Bionic, 5-ядерний GPU."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують iPhone 18 Pro: чип/процесор — A20 Pro; система камер — 48 Мп Fusion із змінною діафрагмою; 48 Мп Ultra Wide; 48 Мп телефото 5×. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-156",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Pro 14″ M4 Pro.",
+      "options": {
+        "A": "Чип/процесор MacBook Pro 14″ M4 Pro: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Тип дисплея MacBook Pro 14″ M4 Pro: Liquid Retina XDR, 3024×1964.",
+        "C": "Чип/процесор MacBook Pro 14″ M4 Pro: M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер.",
+        "D": "Тип дисплея MacBook Pro 14″ M4 Pro: Liquid Retina IPS, 2560×1664, 500 ніт."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Pro 14″ M4 Pro: чип/процесор — M4 Pro: CPU 12 або 14 ядер; GPU 16 або 20 ядер; тип дисплея — Liquid Retina XDR, 3024×1964. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-157",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 13″ M3.",
+      "options": {
+        "A": "Бездротовий зв'язок MacBook Air 13″ M3: Wi‑Fi 7, Bluetooth 6.",
+        "B": "Чип/процесор MacBook Air 13″ M3: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "C": "Бездротовий зв'язок MacBook Air 13″ M3: Wi‑Fi 6E, Bluetooth 5.3.",
+        "D": "Чип/процесор MacBook Air 13″ M3: M3, CPU 8 ядер, GPU 10 ядер."
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 13″ M3: чип/процесор — M3, CPU 8 ядер, GPU 8 або 10 ядер; бездротовий зв'язок — Wi‑Fi 6E, Bluetooth 5.3. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-158",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації MacBook Air 13″ M4.",
+      "options": {
+        "A": "Порти / роз'єм MacBook Air 13″ M4: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "B": "Порти / роз'єм MacBook Air 13″ M4: MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм.",
+        "C": "Чип/процесор MacBook Air 13″ M4: M4, CPU 10 ядер, GPU 8 або 10 ядер.",
+        "D": "Чип/процесор MacBook Air 13″ M4: M3, CPU 8 ядер, GPU 8 або 10 ядер."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "explanation": "Правильні твердження описують MacBook Air 13″ M4: чип/процесор — M4, CPU 10 ядер, GPU 8 або 10 ядер; порти / роз'єм — MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-159",
+      "category": "Mac",
+      "topic": "Mac / комплексна перевірка характеристик",
+      "type": "multiple",
+      "question": "Оберіть усі твердження, які відповідають специфікації iMac M4.",
+      "options": {
+        "A": "Чип/процесор iMac M4: M3, CPU 8 ядер, GPU 8 або 10 ядер.",
+        "B": "Порти / роз'єм iMac M4: MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм.",
+        "C": "Чип/процесор iMac M4: M4: CPU 8 ядер / GPU 8 ядер (2 порти) або CPU 10 ядер / GPU 10 ядер (4 порти); Neural Engine 16 ядер.",
+        "D": "Порти / роз'єм iMac M4: 2 або 4 порти Thunderbolt 4 залежно від конфігурації; 3,5 мм; Gigabit Ethernet залежно від комплектації."
+      },
+      "correct": [
+        "C",
+        "D"
+      ],
+      "explanation": "Правильні твердження описують iMac M4: чип/процесор — M4: CPU 8 ядер / GPU 8 ядер (2 порти) або CPU 10 ядер / GPU 10 ядер (4 порти); Neural Engine 16 ядер; порти / роз'єм — 2 або 4 порти Thunderbolt 4 залежно від конфігурації; 3,5 мм; Gigabit Ethernet залежно від комплектації. Інші твердження містять характеристики іншої моделі."
+    },
+    {
+      "id": "TST-160",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в Mac mini M1?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M1: CPU 8 ядер; GPU 8 ядер; Neural Engine 16 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Mac mini M1 зазначено: M1: CPU 8 ядер; GPU 8 ядер; Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-161",
+      "category": "iPhone",
+      "topic": "iPhone / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPhone 12 Pro?",
+      "options": {
+        "A": "60 Гц",
+        "B": "ProMotion до 120 Гц",
+        "C": "ProMotion, до 120 Гц",
+        "D": "120 Гц"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 12 Pro зазначено: 60 Гц."
+    },
+    {
+      "id": "TST-162",
+      "category": "iPad Air",
+      "topic": "iPad Air / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPad Air 5 M1?",
+      "options": {
+        "A": "ProMotion до 120 Гц",
+        "B": "ProMotion, до 120 Гц",
+        "C": "60 Гц",
+        "D": "120 Гц"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Air 5 M1 зазначено: 60 Гц."
+    },
+    {
+      "id": "TST-163",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone SE (3-го покоління) у специфікації?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "A15 Bionic",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone SE (3-го покоління) зазначено: A15 Bionic."
+    },
+    {
+      "id": "TST-164",
+      "category": "iPad",
+      "topic": "iPad / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPad 10-го покоління 10,9″ A14 Bionic за таблицею характеристик?",
+      "options": {
+        "A": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "B": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "C": "8 Мп ширококутна, ƒ/2.4",
+        "D": "12 Мп ширококутна, ƒ/1.8"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad 10-го покоління 10,9″ A14 Bionic зазначено: 12 Мп ширококутна, ƒ/1.8."
+    },
+    {
+      "id": "TST-165",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 14 Pro у специфікації?",
+      "options": {
+        "A": "A18, 4-ядерний GPU",
+        "B": "A18",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "A17 Pro, 6-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 14 Pro зазначено: A16 Bionic, 5-ядерний GPU."
+    },
+    {
+      "id": "TST-166",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Pro 14″ M1 Pro?",
+      "options": {
+        "A": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M1 Pro: CPU 8 або 10 ядер; GPU 14 або 16 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M1 Pro зазначено: M1 Pro: CPU 8 або 10 ядер; GPU 14 або 16 ядер."
+    },
+    {
+      "id": "TST-167",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPad Pro M2 12,9″?",
+      "options": {
+        "A": "Ultra Retina XDR tandem OLED, 2752×2064, до 1000 ніт SDR, 1600 ніт HDR",
+        "B": "Liquid Retina IPS, 2388×1668, до 600 ніт, P3, True Tone",
+        "C": "Ultra Retina XDR tandem OLED, 2420×1668, до 1000 ніт SDR, 1600 ніт HDR",
+        "D": "Liquid Retina XDR mini‑LED, 2732×2048, ProMotion, до 1600 ніт HDR"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPad Pro M2 12,9″ зазначено: Liquid Retina XDR mini‑LED, 2732×2048, ProMotion, до 1600 ніт HDR."
+    },
+    {
+      "id": "TST-168",
+      "category": "Mac",
+      "topic": "Mac / бездротовий зв'язок",
+      "type": "single",
+      "question": "Які бездротові стандарти наведено для MacBook Air 13″ M1?",
+      "options": {
+        "A": "Wi‑Fi 6E, Bluetooth 5.3",
+        "B": "Wi‑Fi 6, Bluetooth 5.0",
+        "C": "Wi‑Fi 6E; Bluetooth 5.3",
+        "D": "Wi‑Fi 7, Bluetooth 6"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M1 зазначено: Wi‑Fi 6, Bluetooth 5.0."
+    },
+    {
+      "id": "TST-169",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для Apple Watch Ultra 1?",
+      "options": {
+        "A": "Retina OLED LTPO; SE 2 без Always-On",
+        "B": "Always-On Retina OLED LTPO",
+        "C": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "D": "Always-On Retina OLED/LTPO; точна панель залежить від покоління"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 1 зазначено: Always-On Retina OLED/LTPO; точна панель залежить від покоління."
+    },
+    {
+      "id": "TST-170",
+      "category": "iPad Pro",
+      "topic": "iPad Pro / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Pro M2 12,9″?",
+      "options": {
+        "A": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "B": "M4; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM",
+        "C": "M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD",
+        "D": "M5; CPU 9 ядер (256/512 ГБ) або 10 ядер (1/2 ТБ), GPU 10 ядер, Neural Engine 16 ядер; 12/16 ГБ RAM"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Pro M2 12,9″ зазначено: M2; CPU 8 ядер, GPU 10 ядер, Neural Engine 16 ядер; 8/16 ГБ RAM залежно від SSD."
+    },
+    {
+      "id": "TST-171",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 12 Pro у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A18, 4-ядерний GPU",
+        "C": "A14 Bionic",
+        "D": "A17 Pro, 6-ядерний GPU"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 12 Pro зазначено: A14 Bionic."
+    },
+    {
+      "id": "TST-172",
+      "category": "Навушники",
+      "topic": "Навушники / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для AirPods Pro 2?",
+      "options": {
+        "A": "USB‑C",
+        "B": "USB‑C; футляр підтримує бездротове заряджання",
+        "C": "USB‑C; окремо є Wireless Charging Case",
+        "D": "Lightning або USB‑C залежно від версії кейсу"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirPods Pro 2 зазначено: Lightning або USB‑C залежно від версії кейсу."
+    },
+    {
+      "id": "TST-173",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 11 у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A13 Bionic",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone 11 зазначено: A13 Bionic."
+    },
+    {
+      "id": "TST-174",
+      "category": "Mac",
+      "topic": "Mac / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для MacBook Pro 14″ M1 Pro?",
+      "options": {
+        "A": "Liquid Retina XDR, 3024×1964",
+        "B": "Liquid Retina XDR, 3456×2234",
+        "C": "Liquid Retina IPS, 2880×1864, 500 ніт",
+        "D": "Liquid Retina IPS, 2560×1664, 500 ніт"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для MacBook Pro 14″ M1 Pro зазначено: Liquid Retina XDR, 3024×1964."
+    },
+    {
+      "id": "TST-175",
+      "category": "iPad Air",
+      "topic": "iPad Air / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad Air 5 M1?",
+      "options": {
+        "A": "M2; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "B": "M4; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 12 ГБ об’єднаної пам’яті",
+        "C": "M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті",
+        "D": "M3; CPU 8 ядер, GPU 9 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad Air 5 M1 зазначено: M1; CPU 8 ядер, GPU 8 ядер, Neural Engine 16 ядер; 8 ГБ об’єднаної пам’яті."
+    },
+    {
+      "id": "TST-176",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods (3-го покоління) MagSafe у специфікації?",
+      "options": {
+        "A": "чіп H2",
+        "B": "чіп H1",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для AirPods (3-го покоління) MagSafe зазначено: чіп H1."
+    },
+    {
+      "id": "TST-177",
+      "category": "iPhone",
+      "topic": "iPhone / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPhone 11?",
+      "options": {
+        "A": "USB-C, USB 3 (до 10 Гбіт/с)",
+        "B": "USB-C, USB 2 (до 480 Мбіт/с)",
+        "C": "Lightning",
+        "D": "USB-C, USB 2 — до 480 Мбіт/с"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 11 зазначено: Lightning."
+    },
+    {
+      "id": "TST-178",
+      "category": "iPad",
+      "topic": "iPad / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iPad 9-го покоління 10,2″ A13 Bionic?",
+      "options": {
+        "A": "USB‑C; Smart Connector",
+        "B": "Lightning; Smart Connector; 3,5 мм аудіороз’єм",
+        "C": "USB‑C (USB 2.0, до 480 Мбіт/с); Smart Connector",
+        "D": "USB-C, USB 2 (до 480 Мбіт/с)"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPad 9-го покоління 10,2″ A13 Bionic зазначено: Lightning; Smart Connector; 3,5 мм аудіороз’єм."
+    },
+    {
+      "id": "TST-179",
+      "category": "Інші пристрої",
+      "topic": "Інші пристрої / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirTag (1-го покоління) у специфікації?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "UWB чип 2-го покоління Apple",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "U1 (1-ше покоління UWB)"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirTag (1-го покоління) зазначено: U1 (1-ше покоління UWB)."
+    },
+    {
+      "id": "TST-180",
+      "category": "Навушники",
+      "topic": "Навушники / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для AirPods (2-го покоління)?",
+      "options": {
+        "A": "Lightning (футляр; варіанти футляра різнилися)",
+        "B": "USB‑C; окремо є Wireless Charging Case",
+        "C": "USB‑C; футляр підтримує бездротове заряджання",
+        "D": "USB‑C"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для AirPods (2-го покоління) зазначено: Lightning (футляр; варіанти футляра різнилися)."
+    },
+    {
+      "id": "TST-181",
+      "category": "iPad mini",
+      "topic": "iPad mini / частота оновлення дисплея",
+      "type": "single",
+      "question": "Яка частота оновлення дисплея вказана для iPad mini 6 A15 Bionic?",
+      "options": {
+        "A": "ProMotion, до 120 Гц",
+        "B": "120 Гц",
+        "C": "60 Гц",
+        "D": "ProMotion до 120 Гц"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPad mini 6 A15 Bionic зазначено: 60 Гц."
+    },
+    {
+      "id": "TST-182",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для iMac M1?",
+      "options": {
+        "A": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "B": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "C": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм",
+        "D": "2× Thunderbolt / USB 4; у версії з 4 портами також 2× USB 3; 3,5 мм; Gigabit Ethernet на адаптері живлення для певної комплектації"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iMac M1 зазначено: 2× Thunderbolt / USB 4; у версії з 4 портами також 2× USB 3; 3,5 мм; Gigabit Ethernet на адаптері живлення для певної комплектації."
+    },
+    {
+      "id": "TST-183",
+      "category": "iPad",
+      "topic": "iPad / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad 10-го покоління 10,9″ A14 Bionic?",
+      "options": {
+        "A": "A14 Bionic; CPU 6 ядер, GPU 4 ядра, Neural Engine 16 ядер",
+        "B": "A13 Bionic; Neural Engine",
+        "C": "A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad 10-го покоління 10,9″ A14 Bionic зазначено: A14 Bionic; CPU 6 ядер, GPU 4 ядра, Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-184",
+      "category": "Mac",
+      "topic": "Mac / порти / роз'єм",
+      "type": "single",
+      "question": "Які порти або роз'єм указано для Mac mini M1?",
+      "options": {
+        "A": "2× Thunderbolt / USB 4, 2× USB-A, HDMI 2.0, Gigabit Ethernet, 3,5 мм",
+        "B": "MagSafe 3, 2× Thunderbolt / USB 4, 3,5 мм",
+        "C": "MagSafe 3; 2× Thunderbolt / USB 4; HDMI; SDXC; 3,5 мм",
+        "D": "MagSafe 3; 3× Thunderbolt 4; HDMI; SDXC; 3,5 мм"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для Mac mini M1 зазначено: 2× Thunderbolt / USB 4, 2× USB-A, HDMI 2.0, Gigabit Ethernet, 3,5 мм."
+    },
+    {
+      "id": "TST-185",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в iMac M1?",
+      "options": {
+        "A": "M1: CPU 8 ядер; GPU 7 або 8 ядер; Neural Engine 16 ядер",
+        "B": "M3, CPU 8 ядер, GPU 10 ядер",
+        "C": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "D": "M3, CPU 8 ядер, GPU 8 або 10 ядер"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iMac M1 зазначено: M1: CPU 8 ядер; GPU 7 або 8 ядер; Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-186",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Ultra 1 у специфікації?",
+      "options": {
+        "A": "S10 SiP",
+        "B": "S8 SiP",
+        "C": "S11 SiP",
+        "D": "S9 SiP"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для Apple Watch Ultra 1 зазначено: S8 SiP."
+    },
+    {
+      "id": "TST-187",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods (2-го покоління) у специфікації?",
+      "options": {
+        "A": "чіп H1",
+        "B": "A17 Pro, 6-ядерний GPU",
+        "C": "A16 Bionic, 5-ядерний GPU",
+        "D": "чіп H2"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для AirPods (2-го покоління) зазначено: чіп H1."
+    },
+    {
+      "id": "TST-188",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для Apple Watch Series 7?",
+      "options": {
+        "A": "Always-On Retina OLED LTPO",
+        "B": "Retina OLED LTPO; SE 2 без Always-On",
+        "C": "Always-On Retina OLED/LTPO; точна панель залежить від покоління",
+        "D": "6,1″ Super Retina XDR OLED, Dynamic Island"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 7 зазначено: Always-On Retina OLED/LTPO; точна панель залежить від покоління."
+    },
+    {
+      "id": "TST-189",
+      "category": "iPhone",
+      "topic": "iPhone / тип дисплея",
+      "type": "single",
+      "question": "Який тип дисплея зазначено для iPhone 13?",
+      "options": {
+        "A": "6,1″ Super Retina XDR, OLED",
+        "B": "6,7″ Super Retina XDR OLED, Dynamic Island",
+        "C": "6,1″ Super Retina XDR OLED, Dynamic Island",
+        "D": "6,1″ Super Retina XDR OLED, Dynamic Island, Always-On"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPhone 13 зазначено: 6,1″ Super Retina XDR, OLED."
+    },
+    {
+      "id": "TST-190",
+      "category": "Mac",
+      "topic": "Mac / чип і процесор",
+      "type": "single",
+      "question": "Які порти та роз'єми передбачені в MacBook Air 13″ M1?",
+      "options": {
+        "A": "M3, CPU 8 ядер, GPU 10 ядер",
+        "B": "M4, CPU 10 ядер, GPU 8 або 10 ядер",
+        "C": "M3, CPU 8 ядер, GPU 8 або 10 ядер",
+        "D": "M1, CPU 8 ядер, GPU 7 або 8 ядер"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для MacBook Air 13″ M1 зазначено: M1, CPU 8 ядер, GPU 7 або 8 ядер."
+    },
+    {
+      "id": "TST-191",
+      "category": "iPad",
+      "topic": "iPad / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad 9-го покоління 10,2″ A13 Bionic?",
+      "options": {
+        "A": "A13 Bionic; Neural Engine",
+        "B": "A16; CPU 5 ядер, GPU 4 ядра, Neural Engine 16 ядер",
+        "C": "A14 Bionic; CPU 6 ядер, GPU 4 ядра, Neural Engine 16 ядер",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "У технічних даних для iPad 9-го покоління 10,2″ A13 Bionic зазначено: A13 Bionic; Neural Engine."
+    },
+    {
+      "id": "TST-192",
+      "category": "iPhone",
+      "topic": "iPhone / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPhone SE (3-го покоління) за таблицею характеристик?",
+      "options": {
+        "A": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "B": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 5×); LiDAR",
+        "C": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "D": "12 Мп, ширококутна, ƒ/1.8, цифровий зум до 5×, оптична стабілізація; Deep Fusion, Smart HDR 4, фотографічні стилі"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для iPhone SE (3-го покоління) зазначено: 12 Мп, ширококутна, ƒ/1.8, цифровий зум до 5×, оптична стабілізація; Deep Fusion, Smart HDR 4, фотографічні стилі."
+    },
+    {
+      "id": "TST-193",
+      "category": "Навушники",
+      "topic": "Навушники / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для AirPods Pro 2 у специфікації?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "чіп H2",
+        "C": "чіп H1",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для AirPods Pro 2 зазначено: чіп H2."
+    },
+    {
+      "id": "TST-194",
+      "category": "iPhone",
+      "topic": "iPhone / система камер",
+      "type": "single",
+      "question": "Яку систему камер має iPhone 14 Pro за таблицею характеристик?",
+      "options": {
+        "A": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 3×); LiDAR",
+        "B": "Подвійна: 48 Мп, ƒ/1.6 (основна) + 12 Мп, ƒ/2.4 (надширококутна); 2× телефото завдяки матриці",
+        "C": "Pro-система: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото); LiDAR",
+        "D": "Потрійна: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото 5×); LiDAR"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для iPhone 14 Pro зазначено: Pro-система: 48 Мп, ƒ/1.78 (основна) + 12 Мп, ƒ/2.2 (надширококутна) + 12 Мп, ƒ/2.8 (телефото); LiDAR."
+    },
+    {
+      "id": "TST-195",
+      "category": "Інші пристрої",
+      "topic": "Інші пристрої / діагональ / розмір",
+      "type": "single",
+      "question": "Який розмір зазначено для AirTag (1-го покоління)?",
+      "options": {
+        "A": "6,3″",
+        "B": "6,7″",
+        "C": "6,1″",
+        "D": "31,9 мм діаметр"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для AirTag (1-го покоління) зазначено: 31,9 мм діаметр."
+    },
+    {
+      "id": "TST-196",
+      "category": "iPad mini",
+      "topic": "iPad mini / чип і процесор",
+      "type": "single",
+      "question": "Який тип дисплея встановлено в iPad mini 6 A15 Bionic?",
+      "options": {
+        "A": "A17 Pro, 6-ядерний GPU",
+        "B": "A15 Bionic; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер",
+        "C": "A17 Pro; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер",
+        "D": "A16 Bionic, 5-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPad mini 6 A15 Bionic зазначено: A15 Bionic; CPU 6 ядер, GPU 5 ядер, Neural Engine 16 ядер."
+    },
+    {
+      "id": "TST-197",
+      "category": "Apple Watch",
+      "topic": "Apple Watch / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для Apple Watch Series 7 у специфікації?",
+      "options": {
+        "A": "S11 SiP",
+        "B": "S9 SiP",
+        "C": "S10 SiP",
+        "D": "S7 SiP"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У технічних даних для Apple Watch Series 7 зазначено: S7 SiP."
+    },
+    {
+      "id": "TST-198",
+      "category": "Навушники",
+      "topic": "Навушники / автономність / акумулятор",
+      "type": "single",
+      "question": "Яка автономність або батарея зазначена для AirPods (3-го покоління) MagSafe?",
+      "options": {
+        "A": "До 4 год із ANC; до 7 год без керування шумом; із футляром — залежить від режиму (офіційна специфікація: до 22 год із ANC)",
+        "B": "До 5 год навушники; до 30 год із футляром",
+        "C": "До 6 год навушники; до 30 год із футляром",
+        "D": "До 4 год із ANC; до 20 год із футляром (ANC)"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "У технічних даних для AirPods (3-го покоління) MagSafe зазначено: До 6 год навушники; до 30 год із футляром."
+    },
+    {
+      "id": "TST-199",
+      "category": "iPhone",
+      "topic": "iPhone / чип і процесор",
+      "type": "single",
+      "question": "Який чип або процесор указано для iPhone 13 у специфікації?",
+      "options": {
+        "A": "A16 Bionic, 5-ядерний GPU",
+        "B": "A15 Bionic, GPU 4 ядра",
+        "C": "A17 Pro, 6-ядерний GPU",
+        "D": "A18, 4-ядерний GPU"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "У технічних даних для iPhone 13 зазначено: A15 Bionic, GPU 4 ядра."
+    },
+    {
+      "id": "TST-200",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone",
+      "type": "single",
+      "question": "Для чого призначена функція True Tone на дисплеї iPhone?",
+      "options": {
+        "A": "Адаптує колір і яскравість дисплея до навколишнього освітлення",
+        "B": "Збільшує частоту оновлення до 120 Гц",
+        "C": "Змінює фото на 48 Мп",
+        "D": "Вмикає темний режим"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "True Tone адаптує колір і яскравість дисплея до умов освітлення."
+    },
+    {
+      "id": "TST-201",
+      "category": "iPhone",
+      "topic": "Дисплей / Night Shift",
+      "type": "single",
+      "question": "Що робить Night Shift на iPhone?",
+      "options": {
+        "A": "Збільшує гучність динаміків",
+        "B": "Робить кольори дисплея теплішими",
+        "C": "Вимикає сповіщення після заходу сонця",
+        "D": "Вирівнює горизонт на фото"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "Night Shift змінює колірну температуру дисплея на теплішу."
+    },
+    {
+      "id": "TST-202",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone та Night Shift",
+      "type": "single",
+      "question": "Чим True Tone відрізняється від Night Shift?",
+      "options": {
+        "A": "True Tone змінює шпалери, Night Shift — гучність",
+        "B": "True Tone працює лише з фото, Night Shift — лише з відео",
+        "C": "True Tone реагує на зовнішнє освітлення, Night Shift робить кольори теплішими",
+        "D": "Це дві назви однієї функції"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "True Tone адаптується до освітлення; Night Shift зміщує кольори в тепліший бік."
+    },
+    {
+      "id": "TST-203",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone",
+      "type": "single",
+      "question": "Як швидко відкрити керування True Tone на iPhone?",
+      "options": {
+        "A": "Затиснути кнопку затвора",
+        "B": "Відкрити App Store",
+        "C": "Двічі натиснути кнопку гучності",
+        "D": "У Центрі керування затиснути повзунок яскравості й торкнутися True Tone"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "У Центрі керування потрібно утримувати регулятор яскравості."
+    },
+    {
+      "id": "TST-204",
+      "category": "iPhone",
+      "topic": "Камера / Портрет",
+      "type": "single",
+      "question": "Який результат створює режим «Портрет»?",
+      "options": {
+        "A": "Сповільнене відео",
+        "B": "Панораму на 360 градусів",
+        "C": "Кадри з різною експозицією",
+        "D": "Чіткий об’єкт на тлі з ефектом розмиття"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Портретний режим створює ефект глибини різкості."
+    },
+    {
+      "id": "TST-205",
+      "category": "iPhone",
+      "topic": "Камера / Макро",
+      "type": "single",
+      "question": "Для чого призначена макрозйомка на сумісному iPhone?",
+      "options": {
+        "A": "Для віддалених об’єктів із 10× оптичним наближенням",
+        "B": "Для створення панорами",
+        "C": "Для автоматичного видалення людей із кадру",
+        "D": "Для деталізованих крупних планів близьких об’єктів"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Макрозйомка призначена для різких крупних планів."
+    },
+    {
+      "id": "TST-206",
+      "category": "iPhone",
+      "topic": "Камера / Макро",
+      "type": "single",
+      "question": "Яка камера використовується для макрозйомки на підтримуваних моделях?",
+      "options": {
+        "A": "LiDAR без камери",
+        "B": "Тільки телефото",
+        "C": "Надширококутна",
+        "D": "Лише фронтальна TrueDepth"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "На сумісних моделях макрозйомка використовує надширококутну камеру."
+    },
+    {
+      "id": "TST-207",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "single",
+      "question": "Для чого потрібен Нічний режим камери iPhone?",
+      "options": {
+        "A": "Щоб записувати лише звук",
+        "B": "Щоб підвищувати яскравість дисплея",
+        "C": "Щоб створювати 3D-модель кімнати",
+        "D": "Щоб отримувати світліші фото з більшою кількістю деталей за слабкого освітлення"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Нічний режим допомагає отримувати детальніші фото за слабкого освітлення."
+    },
+    {
+      "id": "TST-208",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "single",
+      "question": "Що допоможе отримати деталізованіший нічний знімок?",
+      "options": {
+        "A": "Тримати iPhone нерухомо або використати штатив",
+        "B": "Увімкнути Night Shift",
+        "C": "Рухати телефон під час експозиції",
+        "D": "Закрити об’єктив пальцем"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Apple радить використовувати штатив для деталізованіших нічних фото."
+    },
+    {
+      "id": "TST-209",
+      "category": "iPhone",
+      "topic": "Камера / Live Photo",
+      "type": "single",
+      "question": "Що записує Live Photo разом із нерухомим знімком?",
+      "options": {
+        "A": "RAW-копію без обробки",
+        "B": "Відео на 30 хвилин",
+        "C": "Короткий момент до й після зйомки разом зі звуком",
+        "D": "Лише аудіо"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Live Photo фіксує рух і звук безпосередньо до та після зйомки."
+    },
+    {
+      "id": "TST-210",
+      "category": "iPhone",
+      "topic": "Камера / Стилі фотографій",
+      "type": "single",
+      "question": "Для чого призначені стилі фотографій?",
+      "options": {
+        "A": "Щоб змінити роздільність дисплея",
+        "B": "Щоб автоматично замінити об’єктив",
+        "C": "Щоб додати GPS-маршрут",
+        "D": "Щоб налаштувати вигляд фото, коригуючи тон і колір"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Стилі фотографій змінюють вигляд знімка й можуть налаштовуватися."
+    },
+    {
+      "id": "TST-211",
+      "category": "iPhone",
+      "topic": "Камера / Стилі фотографій",
+      "type": "single",
+      "question": "Коли можна вибрати стиль фотографій на сумісному iPhone?",
+      "options": {
+        "A": "Лише після друку",
+        "B": "Тільки після перенесення на Windows",
+        "C": "Лише під час відеодзвінка",
+        "D": "До зйомки, а на підтримуваних моделях — редагувати пізніше у «Фотографіях»"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Стиль можна вибрати перед зйомкою й за потреби редагувати пізніше."
+    },
+    {
+      "id": "TST-212",
+      "category": "iPhone",
+      "topic": "Камера / Apple ProRAW",
+      "type": "single",
+      "question": "Для чого найкраще підходить формат Apple ProRAW?",
+      "options": {
+        "A": "Для запису просторового аудіо",
+        "B": "Для більшого контролю над редагуванням експозиції, кольору й балансу білого",
+        "C": "Для автоматичної резервної копії",
+        "D": "Для зменшення розміру кожного фото"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "ProRAW зберігає більше інформації для подальшого редагування."
+    },
+    {
+      "id": "TST-213",
+      "category": "iPhone",
+      "topic": "Камера / Apple ProRAW",
+      "type": "single",
+      "question": "Який компроміс варто пояснити покупцеві під час вибору ProRAW?",
+      "options": {
+        "A": "Формат працює лише для відео",
+        "B": "Файли більші, зате дають більше свободи для редагування",
+        "C": "Файли завжди менші за JPEG",
+        "D": "ProRAW вимикає всі камери, крім фронтальної"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "Файли ProRAW значно більші за HEIF/JPEG."
+    },
+    {
+      "id": "TST-214",
+      "category": "iPhone",
+      "topic": "Камера / HDR",
+      "type": "single",
+      "question": "Що робить HDR під час зйомки контрастної сцени?",
+      "options": {
+        "A": "Знімає лише чорно-білі фото",
+        "B": "Об’єднує кадри з різною експозицією для кращої деталізації світлих і темних ділянок",
+        "C": "Змінює співвідношення сторін екрана",
+        "D": "Розмиває весь фон"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "HDR допомагає зберігати деталі у світлих ділянках і тінях."
+    },
+    {
+      "id": "TST-215",
+      "category": "iPhone",
+      "topic": "Камера / Експозиція",
+      "type": "single",
+      "question": "Що змінює налаштування експозиції під час зйомки?",
+      "options": {
+        "A": "Ємність акумулятора",
+        "B": "Фізичну кількість мегапікселів сенсора",
+        "C": "Кількість SIM-карт",
+        "D": "Яскравість зображення"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Експозиція впливає на те, наскільки світлим або темним буде кадр."
+    },
+    {
+      "id": "TST-216",
+      "category": "iPhone",
+      "topic": "Камера / Фокус",
+      "type": "single",
+      "question": "Для чого використовують блокування фокуса й експозиції?",
+      "options": {
+        "A": "Щоб заборонити зберігати фото",
+        "B": "Щоб збільшити оптичне наближення вдвічі",
+        "C": "Щоб увімкнути True Tone",
+        "D": "Щоб зафіксувати фокус і експозицію на вибраній ділянці"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Блокування допомагає зберегти задані фокус та експозицію."
+    },
+    {
+      "id": "TST-217",
+      "category": "iPhone",
+      "topic": "Камера / Кінематограф",
+      "type": "single",
+      "question": "Що є ключовою особливістю режиму «Кінематограф»?",
+      "options": {
+        "A": "Фото з максимальною роздільністю",
+        "B": "Відео з ефектом глибини різкості та можливістю змінювати фокус",
+        "C": "Автоматичні субтитри до будь-якого відео",
+        "D": "Запис лише аудіодоріжки"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "Режим створює розмиття тла й дає змогу змінювати точку фокусування."
+    },
+    {
+      "id": "TST-218",
+      "category": "iPhone",
+      "topic": "Камера / Кінематограф",
+      "type": "single",
+      "question": "Що можна зробити з фокусом у відео, знятому в режимі «Кінематограф»?",
+      "options": {
+        "A": "Фокус неможливо змінити після запису",
+        "B": "Змінити фокус лише під час ремонту",
+        "C": "Змінити фокус лише в іншому відео",
+        "D": "Змінити точку фокусування під час запису або після нього"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Apple дозволяє вручну змінювати точку фокусування під час запису або пізніше."
+    },
+    {
+      "id": "TST-219",
+      "category": "iPhone",
+      "topic": "Камера / Зум",
+      "type": "single",
+      "question": "Чим оптичне наближення відрізняється від цифрового?",
+      "options": {
+        "A": "Оптичне завжди створюється фронтальною камерою",
+        "B": "Оптичне використовує оптику камери, цифрове збільшує зображення програмно",
+        "C": "Цифрове завжди дає більше деталей",
+        "D": "Різниці немає"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "Оптичне наближення спирається на оптичну систему, цифрове — на програмне масштабування."
+    },
+    {
+      "id": "TST-220",
+      "category": "iPhone",
+      "topic": "Камера / Панорама",
+      "type": "single",
+      "question": "Коли варто обрати режим «Панорама»?",
+      "options": {
+        "A": "Коли потрібно охопити широкий простір одним зображенням",
+        "B": "Коли потрібно записати рух зі звуком",
+        "C": "Коли потрібно створити RAW-файл",
+        "D": "Коли потрібно розмити тло навколо людини"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Панорама призначена для широкого поля огляду."
+    },
+    {
+      "id": "TST-221",
+      "category": "iPhone",
+      "topic": "Камера / Серійна зйомка",
+      "type": "single",
+      "question": "Для чого зручна серійна зйомка?",
+      "options": {
+        "A": "Щоб створити 3D-карту",
+        "B": "Щоб швидко зробити багато кадрів рухомого об’єкта й вибрати найкращий",
+        "C": "Щоб змінити колір дисплея",
+        "D": "Щоб записати звук без відео"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "Серійна зйомка допомагає зловити вдалий момент у русі."
+    },
+    {
+      "id": "TST-222",
+      "category": "iPhone",
+      "topic": "Камера / LiDAR",
+      "type": "single",
+      "question": "Яка користь від сканера LiDAR на сумісних iPhone Pro?",
+      "options": {
+        "A": "Вимірювання відстані та визначення глибини сцени для підтримуваних функцій",
+        "B": "Очищення об’єктива",
+        "C": "Збільшення яскравості дисплея",
+        "D": "Заряджання AirPods без кабелю"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "LiDAR допомагає вимірювати відстань і визначати глибину сцени."
+    },
+    {
+      "id": "TST-223",
+      "category": "iPhone",
+      "topic": "Камера / Live Photo",
+      "type": "single",
+      "question": "Як переглянути рух у Live Photo у програмі «Фотографії»?",
+      "options": {
+        "A": "Відкрити знімок і натиснути та утримувати його",
+        "B": "Повернути iPhone горизонтально",
+        "C": "Двічі натиснути кнопку живлення",
+        "D": "Увімкнути Night Shift"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Щоб відтворити Live Photo, натисніть і утримуйте знімок."
+    },
+    {
+      "id": "TST-224",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "single",
+      "question": "Що може камера автоматично робити за слабкого освітлення на підтримуваному iPhone?",
+      "options": {
+        "A": "Увімкнути макро для будь-якої відстані",
+        "B": "Завжди перейти на фронтальну камеру",
+        "C": "Увімкнути Нічний режим і підібрати час експозиції",
+        "D": "Вимкнути обробку зображення"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "На підтримуваних моделях Нічний режим вмикається автоматично за слабкого освітлення."
+    },
+    {
+      "id": "TST-225",
+      "category": "iPhone",
+      "topic": "Камера / Збереження параметрів",
+      "type": "single",
+      "question": "Що дає опція «Збереження параметрів» у налаштуваннях Камери?",
+      "options": {
+        "A": "Зберігає всі фото лише в iCloud",
+        "B": "Зберігає заряд акумулятора",
+        "C": "Блокує зміну експозиції назавжди",
+        "D": "Дозволяє зберігати вибрані режими й налаштування між відкриттями Камери"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Опції утримання режиму допомагають зберігати останні налаштування."
+    },
+    {
+      "id": "TST-226",
+      "category": "iPhone",
+      "topic": "Камера / Стилі та фільтри",
+      "type": "single",
+      "question": "Яке твердження про стилі фотографій найточніше?",
+      "options": {
+        "A": "Це фізичні об’єктиви",
+        "B": "Вони змінюють ємність акумулятора",
+        "C": "Вони працюють лише з аудіо",
+        "D": "Вони змінюють вигляд зображення, а доступні інструменти залежать від моделі"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Стилі й фільтри впливають на вигляд зображення, їх доступність залежить від моделі."
+    },
+    {
+      "id": "TST-227",
+      "category": "iPhone",
+      "topic": "Камера / ProRAW",
+      "type": "single",
+      "question": "Чи можна використовувати Apple ProRAW у режимі «Портрет»?",
+      "options": {
+        "A": "Так, на будь-якому iPhone",
+        "B": "Лише з Night Shift",
+        "C": "Ні, ProRAW не підтримується в режимі «Портрет»",
+        "D": "Так, але тільки з фронтальною камерою на всіх моделях"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Apple вказує, що ProRAW не підтримується в портретному режимі."
+    },
+    {
+      "id": "TST-228",
+      "category": "iPhone",
+      "topic": "Дисплей / Night Shift",
+      "type": "single",
+      "question": "Як можна налаштувати Night Shift?",
+      "options": {
+        "A": "Вибрати об’єктив для макро",
+        "B": "Змінити формат аудіо AirPods",
+        "C": "Налаштувати фокус відео",
+        "D": "Запланувати час увімкнення та змінити теплоту кольорів"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "Night Shift має параметри розкладу та колірної температури."
+    },
+    {
+      "id": "TST-229",
+      "category": "iPhone",
+      "topic": "Камера / HDR",
+      "type": "single",
+      "question": "У якій ситуації HDR особливо корисний?",
+      "options": {
+        "A": "Коли в кадрі одночасно є дуже світлі й темні ділянки",
+        "B": "Коли потрібно вимкнути звук клавіатури",
+        "C": "Коли потрібно змінити шпалери",
+        "D": "Коли iPhone заряджає інший пристрій"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "HDR корисний у сценах із високою контрастністю."
+    },
+    {
+      "id": "TST-230",
+      "category": "iPhone",
+      "topic": "Камера / Макро",
+      "type": "single",
+      "question": "Що може відбутися, коли піднести сумісний iPhone близько до об’єкта для макрозйомки?",
+      "options": {
+        "A": "Телефото стане єдиною камерою",
+        "B": "Камера автоматично перемкнеться на надширококутну камеру",
+        "C": "Екран перейде в Night Shift",
+        "D": "Камера обов’язково вимкнеться"
+      },
+      "correct": [
+        "B"
+      ],
+      "explanation": "На підтримуваних моделях камера може автоматично перемикатися на надширококутну."
+    },
+    {
+      "id": "TST-231",
+      "category": "iPhone",
+      "topic": "Камера / Стилі фотографій",
+      "type": "single",
+      "question": "Які параметри можна коригувати у стилях фотографій на підтримуваних моделях?",
+      "options": {
+        "A": "Тон, колір та інтенсивність стилю",
+        "B": "Швидкість Wi‑Fi роутера",
+        "C": "Фізичний розмір сенсора",
+        "D": "Кількість камер у корпусі"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Apple описує налаштування тону, кольору та інтенсивності стилю."
+    },
+    {
+      "id": "TST-232",
+      "category": "iPhone",
+      "topic": "Камера / Live Photo",
+      "type": "single",
+      "question": "Що можна зробити з Live Photo у програмі «Фотографії»?",
+      "options": {
+        "A": "Вибрати інше головне фото або застосувати ефекти на кшталт «Цикл»",
+        "B": "Перетворити його на оптичний зум",
+        "C": "Збільшити фізичну діафрагму",
+        "D": "Увімкнути True Tone для спалаху після зйомки"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Live Photo підтримує вибір ключового кадру та ефекти."
+    },
+    {
+      "id": "TST-233",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "single",
+      "question": "Чому варто тримати iPhone нерухомо під час нічного знімка?",
+      "options": {
+        "A": "Щоб зменшити ризик змазаного кадру під час довшої експозиції",
+        "B": "Щоб збільшити фізичну кількість пікселів",
+        "C": "Щоб активувати Face ID",
+        "D": "Щоб увімкнути True Tone"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Нерухомість допомагає отримати чіткіший кадр під час нічної експозиції."
+    },
+    {
+      "id": "TST-234",
+      "category": "iPhone",
+      "topic": "Камера / Контролер камери",
+      "type": "single",
+      "question": "Для чого на підтримуваних моделях використовується контролер камери?",
+      "options": {
+        "A": "Для заміни SIM-картки",
+        "B": "Для вимірювання пульсу через дисплей",
+        "C": "Для швидкого керування зйомкою та параметрами камери",
+        "D": "Для керування клавіатурою Mac"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Контролер камери дає змогу запускати зйомку та керувати параметрами."
+    },
+    {
+      "id": "TST-235",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone",
+      "type": "single",
+      "question": "Чи означає True Tone, що дисплей має незмінний відтінок незалежно від освітлення?",
+      "options": {
+        "A": "Ні, він керує тільки спалахом",
+        "B": "Так, але лише в режимі «Портрет»",
+        "C": "Так, він фіксує колір назавжди",
+        "D": "Ні, він адаптує колір і яскравість до навколишнього освітлення"
+      },
+      "correct": [
+        "D"
+      ],
+      "explanation": "True Tone підлаштовує відображення до умов навколишнього освітлення."
+    },
+    {
+      "id": "TST-236",
+      "category": "iPhone",
+      "topic": "Камера / Кінематограф",
+      "type": "single",
+      "question": "Що означає ефект глибини різкості у відео?",
+      "options": {
+        "A": "Усе відео стає чорно-білим",
+        "B": "Відео автоматично прискорюється",
+        "C": "Об’єкт залишається чітким, а передній план або тло можуть бути розмитими",
+        "D": "Звук відокремлюється від відео"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Кінематографічний режим створює чіткий об’єкт і розмиття тла."
+    },
+    {
+      "id": "TST-237",
+      "category": "iPhone",
+      "topic": "Камера / ProRAW",
+      "type": "single",
+      "question": "Що варто попередити покупця про зберігання ProRAW-фото?",
+      "options": {
+        "A": "Вони можуть займати значно більше місця, ніж HEIF або JPEG",
+        "B": "Вони не можуть бути відредаговані",
+        "C": "Вони зберігаються лише на SIM-карті",
+        "D": "Вони видаляються через 24 години"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "ProRAW-файли значно більші за стандартні HEIF/JPEG."
+    },
+    {
+      "id": "TST-238",
+      "category": "AirPods",
+      "topic": "Аудіо / AirPods Adaptive Audio",
+      "type": "single",
+      "question": "Що робить Adaptive Audio в сумісних AirPods?",
+      "options": {
+        "A": "Завжди повністю вимикає мікрофони",
+        "B": "Не реагує на шум",
+        "C": "Поєднує поглинання шуму й режим проникності, адаптуючись до оточення",
+        "D": "Заряджає навушники від iPhone"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Adaptive Audio регулює рівень зовнішнього шуму, який пропускається або приглушується."
+    },
+    {
+      "id": "TST-239",
+      "category": "AirPods",
+      "topic": "Аудіо / Conversation Awareness",
+      "type": "single",
+      "question": "Що відбувається, коли користувач починає говорити з увімкненим Conversation Awareness?",
+      "options": {
+        "A": "Музика стає гучнішою",
+        "B": "AirPods від’єднуються",
+        "C": "Гучність медіа знижується, а голоси співрозмовників стають виразнішими",
+        "D": "Автоматично вмикається камера"
+      },
+      "correct": [
+        "C"
+      ],
+      "explanation": "Conversation Awareness знижує гучність медіа та підсилює голоси."
+    },
+    {
+      "id": "TST-240",
+      "category": "AirPods",
+      "topic": "Аудіо / Personalized Volume",
+      "type": "single",
+      "question": "Для чого потрібна функція Personalized Volume у сумісних AirPods?",
+      "options": {
+        "A": "Підлаштовує гучність медіа до оточення та звичок користувача",
+        "B": "Збільшує ємність акумулятора",
+        "C": "Змінює розмір амбушур",
+        "D": "Зберігає музику в корпусі навушників"
+      },
+      "correct": [
+        "A"
+      ],
+      "explanation": "Функція враховує навколишні умови й уподобання щодо гучності."
+    },
+    {
+      "id": "TST-241",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone та Night Shift",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про True Tone і Night Shift.",
+      "options": {
+        "A": "True Tone є режимом запису відео",
+        "B": "True Tone адаптує колір і яскравість до навколишнього освітлення",
+        "C": "Night Shift робить кольори дисплея теплішими",
+        "D": "Night Shift керує оптичним зумом"
+      },
+      "correct": [
+        "B",
+        "C"
+      ],
+      "explanation": "True Tone реагує на освітлення; Night Shift зміщує кольори в тепліший бік."
+    },
+    {
+      "id": "TST-242",
+      "category": "iPhone",
+      "topic": "Камера / Live Photo",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Live Photo.",
+      "options": {
+        "A": "Є відео необмеженої тривалості",
+        "B": "Фіксує момент до й після зйомки",
+        "C": "Містить звук разом із рухом",
+        "D": "Може мати ефекти на кшталт «Цикл»"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Live Photo фіксує короткий рух зі звуком; до нього можна застосовувати ефекти."
+    },
+    {
+      "id": "TST-243",
+      "category": "iPhone",
+      "topic": "Камера / Макро",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про макрозйомку на сумісному iPhone.",
+      "options": {
+        "A": "Призначена для крупних планів дрібних об’єктів",
+        "B": "На підтримуваних моделях доступна для фото й деяких режимів відео",
+        "C": "Може автоматично використовувати надширококутну камеру",
+        "D": "Працює лише для віддалених пейзажів"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Макрозйомка призначена для крупних планів і використовує надширококутну камеру."
+    },
+    {
+      "id": "TST-244",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Нічний режим.",
+      "options": {
+        "A": "Завжди записує відео у форматі ProRes",
+        "B": "Штатив може допомогти отримати детальніші знімки",
+        "C": "Допомагає отримати більше деталей за слабкого освітлення",
+        "D": "Може автоматично вмикатися на підтримуваних моделях"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Нічний режим покращує фото за слабкого освітлення; нерухомість допомагає деталізації."
+    },
+    {
+      "id": "TST-245",
+      "category": "iPhone",
+      "topic": "Камера / Портрет",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про режим «Портрет».",
+      "options": {
+        "A": "Допомагає тримати об’єкт чітким на розмитому тлі",
+        "B": "На підтримуваних моделях можна коригувати розмиття після зйомки",
+        "C": "Призначений тільки для панорам",
+        "D": "Створює ефект глибини різкості"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Портретний режим створює розмиття тла; на підтримуваних моделях ефект можна редагувати."
+    },
+    {
+      "id": "TST-246",
+      "category": "iPhone",
+      "topic": "Камера / ProRAW",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Apple ProRAW.",
+      "options": {
+        "A": "Поєднує дані RAW з обробкою зображень iPhone",
+        "B": "Дає більше контролю над редагуванням експозиції, кольору й балансу білого",
+        "C": "Файли можуть бути більшими за HEIF/JPEG",
+        "D": "Підтримується в режимі «Портрет» без винятків"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "ProRAW забезпечує більше даних для редагування, але займає більше місця й не підтримується в портретному режимі."
+    },
+    {
+      "id": "TST-247",
+      "category": "iPhone",
+      "topic": "Камера / HDR",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про HDR-фотозйомку.",
+      "options": {
+        "A": "Завжди робить фото чорно-білим",
+        "B": "Допомагає зберегти деталі у світлих ділянках і тінях",
+        "C": "Об’єднує кадри з різними параметрами експозиції",
+        "D": "Корисна в сценах із високою контрастністю"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "HDR об’єднує кадри з різною експозицією для кращої деталізації."
+    },
+    {
+      "id": "TST-248",
+      "category": "iPhone",
+      "topic": "Камера / Стилі фотографій",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про стилі фотографій.",
+      "options": {
+        "A": "На підтримуваних моделях можна коригувати тон і колір",
+        "B": "Стиль може застосовуватися до наступних фотографій, доки його не змінити",
+        "C": "Дають змогу змінювати вигляд знімків",
+        "D": "Змінюють фізичну кількість камер у пристрої"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Стилі змінюють тон і колір зображення; доступність параметрів залежить від моделі."
+    },
+    {
+      "id": "TST-249",
+      "category": "iPhone",
+      "topic": "Камера / Кінематограф",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про режим «Кінематограф».",
+      "options": {
+        "A": "Може автоматично змінювати точку фокусування на новий об’єкт",
+        "B": "Призначений лише для фотографій без руху",
+        "C": "Створює ефект глибини різкості у відео",
+        "D": "Дозволяє вручну змінювати фокус під час запису або після нього"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Режим створює відео з глибиною різкості й дає змогу змінювати фокус."
+    },
+    {
+      "id": "TST-250",
+      "category": "iPhone",
+      "topic": "Дисплей / True Tone",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про True Tone.",
+      "options": {
+        "A": "Використовує дані про навколишнє освітлення",
+        "B": "Адаптує колір та яскравість дисплея",
+        "C": "Може вмикатися або вимикатися в налаштуваннях дисплея чи Центрі керування",
+        "D": "Є тим самим, що Night Shift"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "True Tone реагує на навколишнє освітлення і його можна ввімкнути або вимкнути."
+    },
+    {
+      "id": "TST-251",
+      "category": "iPhone",
+      "topic": "Дисплей / Night Shift",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Night Shift.",
+      "options": {
+        "A": "Робить кольори дисплея теплішими",
+        "B": "Можна змінити колірну температуру",
+        "C": "Покращує оптичну стабілізацію камери",
+        "D": "Можна налаштувати розклад"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Night Shift має розклад і налаштування теплоти кольорів."
+    },
+    {
+      "id": "TST-252",
+      "category": "iPhone",
+      "topic": "Камера / Параметри",
+      "type": "multiple",
+      "question": "Виберіть усі параметри, які можна зберігати через «Опції утримання режиму» на підтримуваних моделях.",
+      "options": {
+        "A": "Стиль фотографій",
+        "B": "Пароль Wi‑Fi мережі",
+        "C": "Останній режим камери",
+        "D": "Налаштування глибини різкості"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Опції утримання режиму можуть зберігати режим, стиль фотографій і параметри глибини."
+    },
+    {
+      "id": "TST-253",
+      "category": "AirPods",
+      "topic": "Аудіо / AirPods",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про функції адаптивного звуку на сумісних AirPods.",
+      "options": {
+        "A": "Personalized Volume враховує оточення та звички користувача",
+        "B": "Adaptive Audio поєднує поглинання шуму й проникність",
+        "C": "Conversation Awareness знижує гучність медіа, коли користувач говорить",
+        "D": "Ці функції однаково доступні на кожній моделі AirPods"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Функції доступні на сумісних моделях AirPods і виконують різні адаптивні завдання."
+    },
+    {
+      "id": "TST-254",
+      "category": "iPhone",
+      "topic": "Камера / Live Photo",
+      "type": "multiple",
+      "question": "Виберіть усі дії, які можна виконати з Live Photo у «Фотографіях».",
+      "options": {
+        "A": "Змінити ємність акумулятора",
+        "B": "Застосувати ефект, наприклад «Цикл»",
+        "C": "Вибрати інше головне фото",
+        "D": "Переглянути рух, натиснувши й утримуючи знімок"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Live Photo можна відтворювати, змінювати ключовий кадр і застосовувати ефекти."
+    },
+    {
+      "id": "TST-255",
+      "category": "iPhone",
+      "topic": "Камера / HDR",
+      "type": "multiple",
+      "question": "Виберіть усі переваги HDR у відповідних умовах зйомки.",
+      "options": {
+        "A": "Краща деталізація світлих ділянок",
+        "B": "Корисність у сценах із високою контрастністю",
+        "C": "Краща деталізація тіней",
+        "D": "Гарантоване збільшення оптичного зуму"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "HDR допомагає передавати більше деталей у контрастних сценах."
+    },
+    {
+      "id": "TST-256",
+      "category": "iPhone",
+      "topic": "Камера / ProRAW",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про файли ProRAW.",
+      "options": {
+        "A": "Завжди менші за JPEG",
+        "B": "Можуть редагуватися у «Фотографіях» і сумісних сторонніх програмах",
+        "C": "Можуть бути значно більшими за HEIF/JPEG",
+        "D": "Містять більше інформації для редагування"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "ProRAW забезпечує гнучкіше редагування, але файли значно більші."
+    },
+    {
+      "id": "TST-257",
+      "category": "iPhone",
+      "topic": "Камера / Нічний режим",
+      "type": "multiple",
+      "question": "Виберіть усі коректні рекомендації для нічної зйомки.",
+      "options": {
+        "A": "Тримати пристрій нерухомо під час експозиції",
+        "B": "За потреби налаштувати час експозиції вручну на підтримуваній моделі",
+        "C": "Увімкнути Night Shift, щоб фізично покращити сенсор камери",
+        "D": "За можливості використати штатив"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Нерухомість і штатив допомагають отримати деталізовані нічні фото; експозицію можна коригувати."
+    },
+    {
+      "id": "TST-258",
+      "category": "iPhone",
+      "topic": "Камера / Стилі фотографій",
+      "type": "multiple",
+      "question": "Виберіть усі коректні твердження про налаштування стилів фотографій.",
+      "options": {
+        "A": "Стиль додає до корпусу новий фізичний об’єктив",
+        "B": "На підтримуваних моделях можна коригувати інтенсивність",
+        "C": "Стиль можна вибрати перед зйомкою",
+        "D": "На підтримуваних моделях можна змінювати тон і колір"
+      },
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Стилі налаштовують вигляд фото; параметри залежать від моделі iPhone."
+    },
+    {
+      "id": "TST-259",
+      "category": "iPhone",
+      "topic": "Камера / Фокус",
+      "type": "multiple",
+      "question": "Виберіть усі випадки, коли блокування фокуса й експозиції корисне.",
+      "options": {
+        "A": "Коли автоматичні зміни експозиції заважають композиції кадру",
+        "B": "Коли потрібно збільшити обсяг пам’яті",
+        "C": "Коли треба зберегти точку фокусування під час перекомпонування",
+        "D": "Коли потрібно зберегти фокус на вибраному об’єкті"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Блокування фокуса й експозиції допомагає контролювати кадр під час перекомпонування."
+    },
+    {
+      "id": "TST-260",
+      "category": "AirPods",
+      "topic": "Аудіо / Conversation Awareness",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Conversation Awareness.",
+      "options": {
+        "A": "Підсилює голоси співрозмовників перед користувачем",
+        "B": "Після розмови повертає попередню гучність/режим",
+        "C": "Призначена для створення портретних фотографій",
+        "D": "Знижує гучність медіа, коли користувач починає говорити"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Conversation Awareness допомагає перейти до розмови без ручного зняття навушників."
+    },
+    {
+      "id": "TST-261",
+      "category": "AirPods",
+      "topic": "Аудіо / Personalized Volume",
+      "type": "multiple",
+      "question": "Виберіть усі правильні твердження про Personalized Volume.",
+      "options": {
+        "A": "Враховує навколишні умови",
+        "B": "Змінює колірну температуру дисплея",
+        "C": "Автоматично підлаштовує гучність медіа",
+        "D": "Навчається на уподобаннях користувача щодо гучності з часом"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Personalized Volume адаптує гучність до умов середовища й звичок прослуховування."
+    }
+  ]
+}
